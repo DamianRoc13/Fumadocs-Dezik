@@ -1,6 +1,6 @@
 export const nav = [
   {
-    "title": ".DS_Store",
+    "title": "Visual Brand Identity",
     "href": "/01-visual-brand-identity",
     "items": [
       {
@@ -30,7 +30,7 @@ export const nav = [
     ]
   },
   {
-    "title": "Visual Brand Identity",
+    "title": "Fundamento Estrategico",
     "href": "/02-fundamento-estrategico",
     "items": [
       {
@@ -56,33 +56,7 @@ export const nav = [
     ]
   },
   {
-    "title": "Visual Brand Identity",
-    "href": "/02-fundamento-estrateugico",
-    "items": [
-      {
-        "title": "Contexto",
-        "href": "/02-fundamento-estrateugico/01-contexto"
-      },
-      {
-        "title": "Insight de Mercado",
-        "href": "/02-fundamento-estrateugico/02-insight-de-mercado"
-      },
-      {
-        "title": "Nombre (Asturias)",
-        "href": "/02-fundamento-estrateugico/03-nombre-asturias"
-      },
-      {
-        "title": "Lifestyle Buildings",
-        "href": "/02-fundamento-estrateugico/04-lifestyle-buildings"
-      },
-      {
-        "title": "Principios de Desarrollo",
-        "href": "/02-fundamento-estrateugico/05-principios-de-desarrollo"
-      }
-    ]
-  },
-  {
-    "title": "Fundamento Estrategico",
+    "title": "Brand World",
     "href": "/03-brand-world",
     "items": [
       {
@@ -108,7 +82,7 @@ export const nav = [
     ]
   },
   {
-    "title": "Brand World",
+    "title": "Posicionamiento y Sistema",
     "href": "/04-posicionamiento-y-sistema",
     "items": [
       {

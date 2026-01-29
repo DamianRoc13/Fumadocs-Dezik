@@ -247,7 +247,10 @@ async function generateNavigation(): Promise<NavItem[]> {
 
     // Buscar la carpeta original en sections
     const sectionDirs = await fs.readdir(SECTIONS_DIR)
-    const sortedSectionDirs = sectionDirs.sort()
+    const validSectionDirs = sectionDirs.filter(f => {
+      return fs.statSync(path.join(SECTIONS_DIR, f)).isDirectory()
+    })
+    const sortedSectionDirs = validSectionDirs.sort()
     const sectionIndex = prefix ? Math.floor((parseInt(prefix) - 10) / 10) : 0
     const originalSectionName = sortedSectionDirs[sectionIndex] || dir.replace(/^\d+-/, '')
 
