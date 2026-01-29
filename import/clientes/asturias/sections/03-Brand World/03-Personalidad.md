@@ -1,0 +1,51 @@
+# Personalidad
+
+Asturias tiene una personalidad **segura, cercana y criteriosa**.
+
+No necesita exagerar ni prometer más de lo que es; comunica desde la claridad, la coherencia y la confianza.
+
+Es una marca que habla con conocimiento, pero sin tecnicismos innecesarios. Se muestra firme en sus decisiones, accesible en su trato y consciente de su rol dentro de la ciudad.
+
+Asturias no busca imponerse, busca **convencer desde el criterio**.
+
+**Rasgos principales:**
+
+- Urbana
+- Confiable
+- Cercana
+- Sobria
+- Contemporánea
+- Humana
+
+---
+
+![Slide 13.jpg](Personalidad/Slide_13.jpg)
+
+El tono de Asturias es **claro, directo y profesional**, con un lenguaje sencillo y bien estructurado.
+
+- Habla de forma comprensible, sin adornos innecesarios.
+- Explica el porqué de las decisiones.
+- Prioriza mensajes reales sobre promesas aspiracionales.
+- Comunica con calma y seguridad, no con urgencia ni presión.
+
+El tono debe sentirse **honesto y sólido**, tanto en ventas como en comunicación institucional.
+
+---
+
+![Slide 13.jpg](Personalidad/Slide_13%201.jpg)
+
+### Lo que SÍ dice Asturias
+
+- Hablamos de **ciudad**, no solo de edificios.
+- Ponemos énfasis en **funcionalidad, ubicación y uso real**.
+- Explicamos nuestras decisiones de diseño y concepto.
+- Comunicamos **valor a largo plazo** y coherencia urbana.
+- Prometemos solo lo que podemos cumplir.
+
+### Lo que NO dice Asturias
+
+- No habla de lujo como ostentación o exceso.
+- No utiliza mensajes vacíos o exagerados.
+- No vende solo metros cuadrados o precios.
+- No comunica desde la urgencia ni el miedo a perder oportunidades.
+- No se presenta como un proyecto aislado del entorno urbano.

@@ -1,0 +1,35 @@
+# Diferenciación
+
+![Slide 13.jpg](Diferenciaci%C3%B3n/Slide_13.jpg)
+
+El mercado inmobiliario local se mueve, en general, entre dos modelos dominantes:
+
+- **Desarrollos tradicionales**, enfocados en metraje, precio o volumen, con poca atención al diseño, la experiencia y la integración urbana.
+- **Proyectos aspiracionales**, que priorizan imagen y lujo estético, elevando costos con decisiones poco funcionales y amenidades subutilizadas.
+
+Asturias no compite directamente con ninguno de estos extremos. Su diferenciación está en ocupar un espacio intermedio, estratégico y poco trabajado: **proyectos bien pensados, funcionales y urbanos, con una percepción alta de calidad y precios coherentes**.
+
+---
+
+![Slide 13.jpg](Diferenciaci%C3%B3n/Slide_13%201.jpg)
+
+- Diseña desde el **criterio**, no desde la moda.
+- Prioriza **uso real, ubicación y funcionalidad** antes que el exceso visual.
+- Construye desde una **lógica urbana**, entendiendo la ciudad como un sistema.
+- Ofrece **lujo accesible**, basado en decisiones inteligentes, no en ostentación.
+- Piensa en **valor y plusvalía a largo plazo**, no en ventas rápidas.
+- Se presenta como una **marca confiable**, con procesos claros y ejecución responsable.
+
+ Asturias se diferencia porque **explica lo que hace y cumple lo que promete**.
+
+---
+
+![Slide 13.jpg](Diferenciaci%C3%B3n/Slide_13%202.jpg)
+
+- No busca ser una constructora de lujo ostentoso ni aspiracional vacío.
+- No compite por precio bajo sacrificando calidad o coherencia.
+- No desarrolla proyectos aislados del contexto urbano.
+- No vende solo metros cuadrados ni renders llamativos.
+- No comunica desde la urgencia ni la presión comercial.
+
+Asturias no promete exceso. Promete **estructura, criterio y ciudad bien hecha**.

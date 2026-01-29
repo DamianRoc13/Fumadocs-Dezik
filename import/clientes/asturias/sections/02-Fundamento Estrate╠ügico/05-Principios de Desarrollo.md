@@ -1,0 +1,31 @@
+# Principios de Desarrollo
+
+Asturias opera bajo principios claros que funcionan como filtro para cualquier proyecto:
+
+![Slide 21.jpg](Principios%20de%20Desarrollo/Slide_21.jpg)
+
+Si una decisión no cumple estos principios, no forma parte de la marca.
+
+---
+
+## Lineamientos de Comunicación
+
+Toda comunicación de Asturias debe:
+
+- Explicar el **porqué** de las decisiones.
+- Hablar de ciudad, no solo de edificios.
+- Priorizar claridad sobre impacto publicitario.
+- Comunicar desde la calma y la seguridad.
+- Construir confianza, no urgencia.
+
+Asturias comunica como una marca que **sabe lo que hace**.
+
+---
+
+## Proyección de Marca
+
+Asturias está pensada para crecer de forma progresiva y ordenada:
+
+![Slide 21.jpg](Principios%20de%20Desarrollo/Slide_21%201.jpg)
+
+El objetivo no es crecer rápido, sino crecer bien.

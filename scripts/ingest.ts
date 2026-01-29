@@ -217,7 +217,7 @@ export default function Page() {
     const rootPageContent = `import { redirect } from 'next/navigation'
 
 export default function ClientRootPage() {
-  redirect('/${firstSection}')
+  redirect('${firstSection}')
 }
 `
     await fs.outputFile(rootPageFile, rootPageContent)

@@ -1,0 +1,18 @@
+# Arquitectura
+
+Asturias se concibe como una **marca paraguas** de desarrollo urbano.
+
+![AST_C01_03_ENE_03.jpg](Arquitectura/AST_C01_03_ENE_03.jpg)
+
+Bajo su nombre se agrupan distintos proyectos inmobiliarios que comparten una misma visión, criterios y forma de hacer ciudad, pero que pueden tener identidades propias según su contexto, ubicación y público.
+
+Asturias define:
+
+- La **visión urbana**
+- El **concepto estratégico** (Lifestyle Buildings)
+- Los **estándares de diseño, funcionalidad y experiencia**
+- El **marco de comunicación y posicionamiento**
+
+Los proyectos específicos (como Brickell u otros futuros) se desarrollan como **subproyectos** que responden a este marco, sin romper la coherencia de la marca principal.
+
+Esto permite a Asturias crecer y diversificarse sin diluir su identidad.

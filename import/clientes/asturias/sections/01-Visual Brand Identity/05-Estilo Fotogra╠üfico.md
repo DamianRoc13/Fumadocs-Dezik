@@ -1,0 +1,23 @@
+# Estilo Fotográfico
+
+## Interiores & Renders
+
+El estilo fotográfico de **Asturias Pro** se basa en imágenes sobrias y cuidadosamente compuestas, donde la arquitectura, los espacios y los detalles se presentan de manera clara.
+
+Se prioriza el uso de fotografía a color o a blanco y negro con una iluminación natural que potencie los volúmenes, las texturas y los contrastes, aportando profundidad y carácter a cada imagen.
+
+Las composiciones deben ser sencillas y contenidas, evitando escenas saturadas de información visual. El uso de encuadres limpios, fondos controlados y amplios espacios de respiro es fundamental para mantener una estética elegante y ordenada, alineada con el posicionamiento de la marca. Imágenes excesivamente cargadas pueden afectar negativamente la percepción de claridad, solidez y sofisticación que define a **Asturias Pro.**
+
+![AST_GUIDELINES_P013.jpg](Estilo%20Fotogr%C3%A1fico/AST_GUIDELINES_P013.jpg)
+
+![AST_GUIDELINES_P014.jpg](Estilo%20Fotogr%C3%A1fico/AST_GUIDELINES_P014.jpg)
+
+## Exteriores & Detalles
+
+Las fotografías de exteriores y detalles en **Asturias Pro** deben transmitir claridad y carácter. En exteriores, se priorizan encuadres amplios y bien definidos que destaquen la relación entre la arquitectura y su entorno, utilizando la luz natural para enfatizar volúmenes, líneas y contrastes, siempre desde una composición ordenada y sin elementos superfluos.
+
+En el caso de los detalles, el enfoque debe estar en los trazos y materiales que definen el proyecto. Estas imágenes deben ser precisas y limpias, con un encuadre contenido que elimine información innecesaria y permita apreciar la calidad, la geometría y la intención del diseño.
+
+![AST_GUIDELINES_P015.jpg](Estilo%20Fotogr%C3%A1fico/AST_GUIDELINES_P015.jpg)
+
+![AST_GUIDELINES_P016.jpg](Estilo%20Fotogr%C3%A1fico/AST_GUIDELINES_P016.jpg)

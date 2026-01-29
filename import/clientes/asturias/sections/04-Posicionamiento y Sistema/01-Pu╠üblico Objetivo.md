@@ -1,0 +1,103 @@
+# Público Objetivo
+
+Asturias no se elige por un proyecto puntual, sino por **confianza, criterio y forma de construir**.
+
+Su público es **más racional que aspiracional**: analiza, compara y piensa a largo plazo.
+
+---
+
+### Perfil General
+
+- **Edad:** 35–60 años
+- **Ubicación:** Cuenca (principalmente)
+- **Perfil:** empresarios, profesionales consolidados, inversionistas locales
+- **Nivel socioeconómico:** medio – alto
+- **Mentalidad:** analítica, prudente, enfocada en valor y retorno
+
+![image.png](P%C3%BAblico%20Objetivo/image.png)
+
+Es un público que **no compra por impulso** ni por moda.
+
+---
+
+### Motivaciones
+
+- Invertir con seguridad
+- Evitar constructoras improvisadas
+- Valorar procesos claros y buena ejecución
+- Pensar a largo plazo (plusvalía y estabilidad)
+
+---
+
+### Dolores / Barreras
+
+- Desconfianza en el sector inmobiliario
+- Proyectos mal ejecutados o inconclusos
+- Costos inflados sin justificación real
+- Informalidad y falta de respaldo
+
+---
+
+### Qué valora de Asturias
+
+- Seriedad y criterio
+- Arquitectura bien pensada
+- Proyectos escalables y sostenibles en el tiempo
+- Lujo accesible (calidad sin exceso)
+- Ubicación y eficiencia antes que metraje
+
+---
+
+## Subsegmentos Clave
+
+### 1. Inversionistas locales
+
+![image.png](P%C3%BAblico%20Objetivo/image%201.png)
+
+Personas que no quieren dejar su dinero en el banco y buscan **retorno real**:
+
+- Plusvalía
+- Renta
+- Respaldo de marca
+
+No buscan especulación rápida, buscan **seguridad patrimonial**.
+
+---
+
+### 2. Inversionistas externos / extranjeros
+
+- Personas de otras ciudades (Guayaquil, Machala, Ambato, USA).
+- Ven a Cuenca como ciudad segura y estable.
+- Necesitan comunicación clara y, en muchos casos, **atención en inglés**.
+- Invierten desde fuera, por lo que la **confianza en la marca es clave**.
+
+![image.png](P%C3%BAblico%20Objetivo/image%202.png)
+
+---
+
+### 3. Familias y compradores racionales
+
+![image.png](P%C3%BAblico%20Objetivo/image%203.png)
+
+- Familias que buscan un desarrollo confiable.
+- Personas que **no compran solo por m²**, sino por concepto y ubicación.
+- Valoran que el proyecto tenga lógica urbana y proyección futura.
+
+---
+
+### 4. Compradores jóvenes / primera compra (segmento secundario)
+
+- Estudiantes o profesionales jóvenes en su primera compra.
+- Necesitan **financiamiento y acompañamiento claro**.
+- Más educativos que aspiracionales.
+- No son el foco principal, pero pueden entrar en proyectos específicos.
+
+![image.png](P%C3%BAblico%20Objetivo/image%204.png)
+
+---
+
+### Qué NO es el público de Asturias
+
+- Compradores impulsivos
+- Personas que buscan solo el precio más bajo
+- Público atraído por lujo ostentoso o promesas exageradas

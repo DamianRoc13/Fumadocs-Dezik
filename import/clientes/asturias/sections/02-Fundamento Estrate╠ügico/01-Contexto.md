@@ -1,0 +1,25 @@
+# Contexto
+
+Cuenca atraviesa un momento de crecimiento urbano importante. La ciudad se ha expandido, han surgido nuevos proyectos inmobiliarios y la demanda por vivienda e inversión ha aumentado. Sin embargo, gran parte de esta oferta sigue respondiendo a modelos tradicionales: edificios que priorizan el metraje o la apariencia, pero que no siempre consideran cómo se vive realmente la ciudad hoy.
+
+En este contexto, surge la necesidad de proyectos más coherentes, mejor pensados y verdaderamente integrados al entorno urbano.
+
+---
+
+![AST_C01_02_ENE_01.jpg](Contexto/AST_C01_02_ENE_01.jpg)
+
+### Por qué nace la marca
+
+Surge desde una visión clara: hacer bien las cosas desde el inicio, con criterio, responsabilidad y una mirada contemporánea sobre la ciudad.
+
+La marca se construye desde una base familiar sólida, con valores claros y una forma de trabajo que prioriza las buenas decisiones por encima del exceso. Asturias no busca competir desde el volumen ni desde el lujo inaccesible, sino desde la calidad del concepto, el diseño y la experiencia urbana.
+
+---
+
+### Qué problema viene a resolver en Cuenca
+
+Asturias viene a resolver una brecha clara en el mercado inmobiliario local: la falta de proyectos que combinen buena arquitectura, funcionalidad real y sentido urbano, sin elevar innecesariamente los costos.
+
+Frente a edificios aislados, poco conectados o pensados solo para vender, Asturias propone desarrollos que entienden la ciudad como un sistema vivo. Proyectos bien ubicados, diseñados para usarse, que simplifican la vida diaria y generan valor sostenible tanto para quienes viven en ellos como para quienes invierten.
+
+Asturias plantea una nueva forma de hacer ciudad en Cuenca: más consciente, más humana y mejor pensada.

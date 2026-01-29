@@ -1,0 +1,41 @@
+# Pilares
+
+![Slide 16.jpg](Pilares/Slide_16.jpg)
+
+### 1. Funcionalidad real
+
+En Asturias, cada espacio tiene una razón de ser. Los proyectos se diseñan para usarse en el día a día, no solo para verse bien en renders o planos.
+
+La funcionalidad real se traduce en distribuciones eficientes, espacios comunes que sí se utilizan, circulaciones claras y soluciones que facilitan la vida urbana.
+
+Este pilar guía decisiones concretas: menos metros desperdiciados, más calidad en el uso, y una experiencia cotidiana fluida para quienes habitan el edificio.
+
+---
+
+### 2. Lujo accesible
+
+Asturias entiende el lujo como calidad, diseño y criterio, no como exceso ni ostentación.
+
+El lujo accesible se expresa en buena arquitectura, materiales bien seleccionados y detalles que aportan valor, sin elevar innecesariamente los costos finales.
+
+Este pilar permite ofrecer proyectos con una percepción alta de calidad, manteniendo precios coherentes y una propuesta atractiva tanto para vivir como para invertir.
+
+---
+
+### 3. Lógica urbana
+
+Cada proyecto se concibe como parte de la ciudad, no como un objeto aislado.
+
+La lógica urbana implica elegir bien la ubicación, entender el entorno, conectar con servicios, movilidad y vida cotidiana, y aportar al desarrollo ordenado del sector donde se implanta el edificio.
+
+Asturias diseña edificios que se integran al ritmo urbano y fortalecen la relación entre las personas y su ciudad.
+
+---
+
+### 4. Valor a largo plazo
+
+Los proyectos de Asturias están pensados para perdurar.
+
+Este pilar se enfoca en la plusvalía, la vigencia arquitectónica y la solidez constructiva, asegurando que cada desarrollo mantenga su valor en el tiempo, tanto para quienes viven en él como para quienes invierten.
+
+No se construye para la moda del momento, sino para una ciudad que evoluciona con coherencia.

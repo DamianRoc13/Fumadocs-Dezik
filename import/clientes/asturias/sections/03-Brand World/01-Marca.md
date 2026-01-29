@@ -1,0 +1,33 @@
+# Marca
+
+### Propósito
+
+![Slide 9.jpg](Marca/Slide_9.jpg)
+
+Asturias existe para crear espacios urbanos que respondan a la vida real, aportando valor a la ciudad y a quienes la habitan, sin excesos ni decisiones innecesarias.
+
+El propósito de la marca no es solo construir, sino **hacer ciudad con criterio**, entendiendo que cada proyecto impacta en el entorno, en la experiencia diaria de las personas y en el desarrollo urbano a largo plazo.
+
+---
+
+### Esencia
+
+**Lifestyle Buildings** 
+
+La esencia de Asturias se resume en una idea clara: desarrollar edificios que traduzcan el estilo de vida urbano contemporáneo en espacios funcionales, bien ubicados y pensados para usarse de verdad.
+
+No es una promesa aspiracional, es una forma concreta de diseñar, construir y proyectar.
+
+---
+
+![Slide 10.jpg](Marca/Slide_10.jpg)
+
+---
+
+### Visión
+
+Ser la marca que cambie la forma en que las personas viven y sienten la ciudad, convirtiendo la vida urbana en una experiencia más humana, accesible y consciente, a través de proyectos que aporten valor real al entorno y a quienes lo habitan.
+
+---
+
+![Slide 12.jpg](Marca/Slide_12.jpg)
