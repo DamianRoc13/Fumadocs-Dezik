@@ -31,6 +31,32 @@ export const nav = [
   },
   {
     "title": "Visual Brand Identity",
+    "href": "/02-fundamento-estrategico",
+    "items": [
+      {
+        "title": "Contexto",
+        "href": "/02-fundamento-estrategico/01-contexto"
+      },
+      {
+        "title": "Insight de Mercado",
+        "href": "/02-fundamento-estrategico/02-insight-de-mercado"
+      },
+      {
+        "title": "Nombre (Asturias)",
+        "href": "/02-fundamento-estrategico/03-nombre-asturias"
+      },
+      {
+        "title": "Lifestyle Buildings",
+        "href": "/02-fundamento-estrategico/04-lifestyle-buildings"
+      },
+      {
+        "title": "Principios de Desarrollo",
+        "href": "/02-fundamento-estrategico/05-principios-de-desarrollo"
+      }
+    ]
+  },
+  {
+    "title": "Visual Brand Identity",
     "href": "/02-fundamento-estrateugico",
     "items": [
       {
@@ -56,7 +82,7 @@ export const nav = [
     ]
   },
   {
-    "title": "Fundamento Estrate╠ügico",
+    "title": "Fundamento Estrategico",
     "href": "/03-brand-world",
     "items": [
       {
