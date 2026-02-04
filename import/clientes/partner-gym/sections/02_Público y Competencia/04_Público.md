@@ -25,7 +25,7 @@
 - **Género:** 60,9% mujeres – 39,1% hombres.
 - **Ubicación:**
     - 77,2% Cuenca.
-    - Otras ciudades de Ecuador con presencia marginal (<2% cada una).
+    - Otras ciudades de Ecuador con presencia marginal (menos del 2% cada una).
     - 6,6% seguidores desde EE.UU (probable comunidad cuencana migrante).
 
 ### 5. **Motivaciones y diferenciadores que valoran**
