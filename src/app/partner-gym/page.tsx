@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation'
 
 export default function ClientRootPage() {
-  redirect('/seccion-1')
+  redirect('01identidad-visual')
 }

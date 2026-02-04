@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pnpm ingest:*)"
+      "Bash(pnpm ingest:*)",
+      "Bash($env:CLIENT_NAME=\"partner-gym\")",
+      "Bash(CLIENT_NAME=partner-gym pnpm ingest:*)"
     ]
   }
 }

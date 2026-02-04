@@ -1,0 +1,19 @@
+# Diseño Gimnasio
+
+El diseño de **Partner Gym** no solo se enfoca en el interior del gimnasio, sino también en cómo el entorno visualmente acompaña la experiencia del usuario. Cada detalle está cuidadosamente pensado para garantizar que el **logotipo** y la **identidad de marca** estén siempre presentes, mientras se mantiene un ambiente motivador y dinámico.
+
+![PAR_MANUAL__FACHADA.jpg](PAR_MANUAL__FACHADA.jpg)
+
+![PAR_MANUAL__PAREDES.jpg](PAR_MANUAL__PAREDES.jpg)
+
+Las paredes y la señalización están diseñadas con un **estilo gráfico dinámico**, utilizando líneas rectas y formas angulares, reflejando el movimiento y la energía del gimnasio. Los colores **negro** y **verde neón** predominan en todo el espacio, lo que no solo asegura que el logotipo se mantenga visible, sino que también refuerza la identidad de **Partner Gym**.
+
+Además de las señales básicas, también se incluyen frases motivacionales en las paredes, como **"Attitude is Everything for Us"** y **"Tu vida en movimiento"**, lo que refuerza el ambiente de **energía** y **superación** dentro del gimnasio.
+
+![PAR_MANUAL__P6.jpg](PAR_MANUAL__P6.jpg)
+
+![PAR_MANUAL__P7.jpg](PAR_MANUAL__P7.jpg)
+
+![PAR_MANUAL__P8.jpg](PAR_MANUAL__P8.jpg)
+
+![PAR_MANUAL__P9.jpg](PAR_MANUAL__P9.jpg)

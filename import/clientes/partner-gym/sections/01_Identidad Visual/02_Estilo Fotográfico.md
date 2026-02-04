@@ -1,0 +1,7 @@
+# Estilo Fotográfico
+
+En nuestro gimnasio en Cuenca, buscamos capturar la energía y el esfuerzo de cada momento de entrenamiento. El estilo fotográfico que adoptamos destaca tanto el trabajo en equipo como el esfuerzo individual. Las imágenes se centran en grupos de personas entrenando juntas, mostrando la motivación, la camaradería y el espíritu colectivo que impulsa a cada miembro a superarse. A través de tomas dinámicas, buscamos capturar no solo los movimientos de cada persona, sino también la conexión entre ellos mientras se esfuerzan en un ambiente lleno de energía.
+
+![PAR_MANUAL__ESTILO FOTOGRAFICO.jpg](PAR_MANUAL__ESTILO_FOTOGRAFICO.jpg)
+
+Cuando la fotografía se enfoca en una sola persona, se destaca el detalle, la concentración y la dedicación. Cada foto resalta la forma en que el cuerpo se mueve y responde al entrenamiento, enfocándose en los detalles del esfuerzo físico: desde el levantamiento de pesas hasta el sudor en la frente. El objetivo es transmitir la intensidad del momento, mostrando la disciplina y determinación que se requiere para alcanzar las metas personales en un gimnasio de alto rendimiento.
