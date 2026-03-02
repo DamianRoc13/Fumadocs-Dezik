@@ -1,0 +1,9 @@
+# Competencia
+
+En la búsqueda por crear una identidad única y diferenciada en el mercado de gimnasios en Cuenca, se realizó un exhaustivo análisis de varias marcas competidoras, tales como **Gimnasio Dorian**, **CAM Gym**, **Body Care**, y **Target Gym**. Este estudio nos permitió comprender los elementos visuales y estratégicos que utilizan para conectar con su público y, al mismo tiempo, detectar áreas donde podíamos sobresalir.
+
+![PAR_MANUAL__COMPETENCIA.jpg](PAR_MANUAL__COMPETENCIA.jpg)
+
+Uno de los aspectos clave que se analizó fue la cromática, ya que el color juega un papel fundamental en la percepción de la marca. Tras observar las tendencias de colores utilizados por nuestros competidores, se decidió elegir el **verde** como color principal de nuestra marca. Este tono no solo crea un diferenciador visual frente a los gimnasios de la competencia, sino que también está asociado con conceptos de vitalidad, energía y frescura, elementos que queremos transmitir a nuestros miembros.
+
+Además del color, se analizó profundamente la estrategia de comunicación de estas marcas. Se evaluó cómo cada gimnasio se posiciona frente a su audiencia, las plataformas que utilizan para comunicarse, y los mensajes clave que proyectan. Con esta información, podemos asegurar que nuestra estrategia de comunicación y presencia visual será aún más efectiva, con un enfoque renovado que conecte emocionalmente con los usuarios y los motive a ser parte de nuestra comunidad.

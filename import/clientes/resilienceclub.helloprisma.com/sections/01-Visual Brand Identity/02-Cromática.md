@@ -1,0 +1,23 @@
+# Cromática
+
+La paleta cromática de **Resilience Club** se construye a partir de tonos neutros que refuerzan el carácter gótico y sobrio de la identidad visual. Esta base cromática permite generar contraste conceptual y visual, facilitando que los elementos gráficos, tipográficos y compositivos adquieran mayor protagonismo.
+
+El uso predominante de colores neutros aporta versatilidad y coherencia en las aplicaciones, al mismo tiempo que crea un escenario visual controlado donde la comunicación puede intensificarse mediante recursos gráficos, texturas o acentos, manteniendo siempre una estética urbana y contemporánea.
+
+## Paleta Principal
+
+Los colores principales de **Resilience Club** se estructuran en un rango que va desde un negro puro hasta un blanco apagado. Estos tonos constituyen la base cromática de la identidad y deben emplearse con mayor frecuencia dentro de la comunicación visual, ya que garantizan coherencia estética y refuerzan el carácter sobrio, gótico y urbano de la marca.
+
+El color Lunar funciona como un acento cromático estratégico. Su uso está orientado a generar puntos de contraste y jerarquía visual dentro de composiciones dominadas por neutros, permitiendo desarrollar piezas con mayor impacto gráfico sin perder la identidad minimalista y expresiva del sistema visual.
+
+![RES_GUIDELINES_P015.jpg](RES_GUIDELINES_P015.jpg)
+
+## Gradientes
+
+El uso de gradientes en la identidad de **Resilience Club** está orientado principalmente a la construcción de recursos visuales dentro de las imágenes de marca, especialmente en aquellas composiciones que incorporan desenfoques de movimiento como elemento gráfico.
+
+Los gradientes funcionan como un soporte atmosférico que aporta profundidad, dinamismo y transición visual, reforzando la sensación de energía y movimiento.
+
+Su aplicación debe mantenerse controlada y coherente con la paleta cromática establecida, evitando protagonismos excesivos y priorizando su función como recurso de apoyo para potenciar la estética urbana y expresiva del sistema visual.
+
+![RES_GUIDELINES_P016.jpg](RES_GUIDELINES_P016.jpg)

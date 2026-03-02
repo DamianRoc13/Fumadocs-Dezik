@@ -1,0 +1,29 @@
+# Tipografía
+
+## Tipografía Principal
+
+**Satoshi** es una tipografía contemporánea de carácter geométrico y refinado que aporta equilibrio, claridad y modernidad al sistema visual de **Hildegard**. Sus formas limpias, proporciones bien calibradas y construcción racional transmiten precisión y sobriedad, consolidando un lenguaje gráfico actual y versátil.
+
+La regularidad de sus trazos y la armonía en sus curvas generan un ritmo visual ordenado que favorece la legibilidad tanto en titulares como en cuerpos de texto. Su amplia familia tipográfica permite establecer jerarquías claras y coherentes, adaptándose con flexibilidad a distintos soportes y aplicaciones.
+
+La neutralidad elegante de Satoshi complementa el carácter sólido del logotipo, aportando contraste contemporáneo sin competir con su presencia. Esta combinación refuerza la coherencia del sistema gráfico, consolidando una identidad equilibrada, profesional y distintiva.
+
+![HIL_BRAND_IDENTITY_DESIGN-10.png](HIL_BRAND_IDENTITY_DESIGN-10.png)
+
+![HIL_BRAND_IDENTITY_DESIGN-11.png](HIL_BRAND_IDENTITY_DESIGN-11.png)
+
+[SATOSHI.zip](SATOSHI.zip)
+
+## Tipografía Secundaria
+
+**Cenzo Flare** se integra como tipografía secundaria aportando carácter, personalidad y sofisticación al sistema visual de **Hildegard**. Su construcción serif estilizada, con contrastes definidos y terminaciones elegantes, introduce un matiz distintivo que refuerza la dimensión histórica y cultural de la marca.
+
+Su presencia en titulares y aplicaciones destacadas genera impacto visual sin perder refinamiento, estableciendo un equilibrio entre tradición y contemporaneidad. La variedad de pesos permite modular la expresión gráfica, adaptándose a diferentes niveles de jerarquía con coherencia y claridad.
+
+En conjunto, Cenzo Flare complementa la neutralidad funcional de la tipografía principal, aportando acento y profundidad al discurso visual. Esta combinación consolida una identidad sólida, estructurada y premium, donde cada recurso tipográfico cumple una función estratégica dentro del sistema gráfico.
+
+![HIL_BRAND_IDENTITY_DESIGN-08.png](HIL_BRAND_IDENTITY_DESIGN-08.png)
+
+![HIL_BRAND_IDENTITY_DESIGN-09.png](HIL_BRAND_IDENTITY_DESIGN-09.png)
+
+[CENZO FLARE.zip](CENZO_FLARE.zip)

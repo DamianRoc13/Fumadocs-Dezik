@@ -1,3 +1,0 @@
-# Gains & Pains
-
-![PAR_MANUAL__GAINS AND PAINS.jpg](PAR_MANUAL__GAINS_AND_PAINS.jpg)

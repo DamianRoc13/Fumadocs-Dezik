@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation'
 
 export default function ClientRootPage() {
-  redirect('01identidad-visual')
+  redirect('01-identidad-visual')
 }

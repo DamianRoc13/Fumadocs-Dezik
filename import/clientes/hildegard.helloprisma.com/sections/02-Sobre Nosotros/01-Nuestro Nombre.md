@@ -1,0 +1,5 @@
+# Nuestro Nombre
+
+![HIL_I012.jpg](HIL_I012.jpg)
+
+Inspirada en Hildegarda de Bingen, pensadora y botánica del siglo XII que estudió plantas, fermentaciones y el uso del lúpulo, Hildegard nace como una cervecería de autor donde la ciencia, la naturaleza y la gastronomía se encuentran. La marca toma su nombre como símbolo de conocimiento, criterio y experimentación responsable.

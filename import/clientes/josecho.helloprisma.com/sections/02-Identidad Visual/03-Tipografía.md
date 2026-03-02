@@ -1,0 +1,27 @@
+# Tipografía
+
+## Tipografía Principal
+
+**Aeonik** es una tipografía contemporánea de construcción limpia y enfoque minimalista que fortalece la identidad profesional de **Josecho Economía.** Su diseño de carácter geométrico y proporciones equilibradas transmite claridad, modernidad y precisión, consolidando un lenguaje visual sobrio y confiable.
+
+La armonía en sus trazos y la consistencia de sus curvas generan una lectura fluida y ordenada, favoreciendo la legibilidad tanto en titulares como en cuerpos de texto. Su amplia variedad de pesos desde Light hasta Bold permite establecer jerarquías claras y versátiles, adaptándose con coherencia a distintos formatos y soportes de comunicación.
+
+Las terminaciones suaves y la estructura racional de **Aeonik** dialogan con la síntesis geométrica del isotipo, creando una relación visual coherente entre símbolo y logotipo. Esta integración refuerza la unidad del sistema gráfico y proyecta una identidad sólida, contemporánea y estratégicamente construida.
+
+![Recurso 128.jpg](Recurso_128.jpg)
+
+![Recurso 129.jpg](Recurso_129.jpg)
+
+[Aeonik.zip](Aeonik.zip)
+
+## Tipografía Secundaria
+
+**Parafina** se establece como la tipografía secundaria de **Josecho Economía**, aportando un carácter contundente y expresivo que complementa al sistema tipográfico principal sin restarle protagonismo. Su peso robusto y formas amplias introducen fuerza visual y personalidad en aplicaciones específicas.
+
+Su implementación está pensada de manera estratégica y moderada, destinada a información secundaria, llamados de atención o mensajes breves donde se requiera mayor impacto y énfasis. En todo momento, **Parafina** se mantiene como un recurso de apoyo dentro del sistema gráfico, garantizando que la comunicación conserve equilibrio, coherencia y una identidad visual sólida.
+
+![Recurso 130.jpg](Recurso_130.jpg)
+
+![Recurso 126.jpg](Recurso_126.jpg)
+
+[Parafina-Black-S.ttf](Parafina-Black-S.ttf)

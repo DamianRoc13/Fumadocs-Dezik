@@ -1,0 +1,7 @@
+# Concepto de Diseño
+
+Una propuesta que toma la energía, la disciplina y el diseño contemporáneo como principal recurso visual, transmitiendo modernidad, fuerza y pertenencia. El sistema se construye a partir de geometrías limpias, contrastes de color y símbolos de movimiento que evocan progreso y alto rendimiento, proyectando un carácter aspiracional y sofisticado.
+
+Los colores oscuros y neutros potencian la elegancia, mientras que el verde eléctrico se convierte en el acento distintivo que aporta dinamismo y exclusividad, representando la chispa de energía que impulsa a cada socio. La estética modular y minimalista reinterpreta el mundo fitness con un lenguaje premium, diferenciando a Partner Gym como un espacio único: un gimnasio que no solo entrena el cuerpo, sino que eleva la experiencia de sus miembros a otro nivel.
+
+![PAR_MANUAL__LOOKANDFEEL.jpg](PAR_MANUAL__LOOKANDFEEL.jpg)

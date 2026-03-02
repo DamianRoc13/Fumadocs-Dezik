@@ -1,0 +1,17 @@
+# Elementos Gráficos
+
+Dentro del sistema visual de **Resilience Club** se incorporan tipografías adicionales de alto carácter expresivo que cumplen un rol complementario. Estas fuentes no forman parte del sistema tipográfico base, sino que se utilizan como recursos gráficos para reforzar momentos conceptuales específicos dentro de la comunicación.
+
+La principal de estas tipografías es **Gossip**, cuyo estilo combina referencias a las formas ornamentales del lettering gótico con elementos visuales asociados al detalle sartorial y a la elaboración textil. Esta dualidad aporta una estética más artesanal y emocional, generando contraste frente a la estructura racional de las tipografías principales.
+
+Su uso debe ser puntual y estratégico, priorizando composiciones donde la tipografía funcione como elemento gráfico protagonista, sin comprometer la legibilidad ni la coherencia general del sistema visual.
+
+![RES_GUIDELINES_P027.jpg](RES_GUIDELINES_P027.jpg)
+
+La segunda tipografía complementaria dentro del sistema visual de **Resilience Club** es **xx Treasure Radical**. Su función se mantiene alineada con el enfoque establecido para las tipografías expresivas: actuar como un recurso gráfico de apoyo dentro de composiciones puntuales, aportando carácter y contraste estilístico.
+
+Las reglas de uso son similares a las descritas anteriormente para las tipografías experimentales. Su aplicación debe ser estratégica, priorizando piezas donde el componente visual tenga un mayor peso conceptual. Puede emplearse para generar impacto gráfico, atmósferas más intensas o acentos estéticos dentro del lenguaje urbano y gótico de la marca.
+
+Es importante que su uso permanezca subordinado al sistema tipográfico principal, evitando saturar las composiciones y asegurando siempre coherencia visual y claridad comunicacional.
+
+![RES_GUIDELINES_P028.jpg](RES_GUIDELINES_P028.jpg)
