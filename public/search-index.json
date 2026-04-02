@@ -1,44 +1,50 @@
 [
   {
-    "title": "Logo",
-    "href": "/01-identidad-visual/01-logo",
-    "content": "Logo El logo de Aluve se construye a partir de trazos geométricos curvos, rectos y minimalistas, definidos para proyectar una identidad visual serena y atemporal. Su estructura busca transmitir calma, equilibrio y fluidez, evitando recursos visuales excesivos para destacar una belleza sutil y contemplativa. La composición responde a un lenguaje formal limpio y balanceado, donde cada trazo cumple una función estética y conceptual. Inspirado en la filosofía Japandi, el símbolo representa el punto de encuentro entre simplicidad y propósito, reforzando la idea de que la marca se expresa a través de la armonía visual y la sensibilidad sensorial. El resultado es un logo de presencia discreta pero sólida, diseñado para integrarse de manera natural en espacios y experiencias donde la luz, las texturas y la atmósfera son protagonistas. Valores Intrínsecos Construcción Geométrica Logo Isotipo Variaciones Las variaciones del logo de Aluve han sido diseñadas para adaptarse con flexibilidad a distintos contextos y formatos de aplicación. Las versiones mostradas anteriormente son de considerarse como principales, es decir, deben ser las que se usan con mayor frecuencia dentro de la comunicación ",
-    "section": "01-identidad-visual"
+    "title": "01-Logo",
+    "href": "/01-brand-identity/01-logo",
+    "content": "01 Logo El logotipo de Polgroup fue desarrollado a partir de una tipografía base, la cual fue refinada y mejorada cuidadosamente. Se pulieron sus curvas, terminaciones y proporciones hasta obtener una tipografía moderna, sólida y con carácter, que se convirtió en el logotipo principal de la marca. Valores Intrínsecos A esta construcción se le incorporó un isotipo o ícono complementario, inspirado en las cadenas como símbolo de unión y conexión. Este elemento representa una cadena de comunicación, pero fue diseñado sin cerrarse por completo, con el fin de transmitir apertura, cercanía y flexibilidad hacia los clientes.",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Cromática",
-    "href": "/01-identidad-visual/02-cromatica",
-    "content": "Cromática La paleta cromática de Aluve se construye a partir de tonos neutros y cálidos, complementados por acentos de color cuidadosamente seleccionados para su aplicación dentro del sistema de comunicación. Esta combinación permite generar composiciones visuales equilibradas, manteniendo una estética sobria y contemporánea. La selección cromática responde a la intención de proyectar calidez, serenidad y refinamiento, alineándose con el carácter sensorial de la marca. Los acentos de color funcionan como recursos de énfasis visual, aportando dinamismo sin comprometer la limpieza y armonía del conjunto. En su aplicación, la paleta debe preservar una elegancia con propósito, donde cada color cumple una función compositiva específica y contribuye a reforzar la atmósfera visual distintiva de la marca. Paleta Principal La paleta principal de Aluve se desarrolla a partir de tonos neutros y colores naturales, seleccionados para reflejar la síntesis estética entre la simplicidad del diseño japonés y la calidez funcional del diseño escandinavo. Esta construcción cromática responde a un enfoque visual donde la reducción del ruido permite dirigir la atención hacia lo esencial. Cada tono está ",
-    "section": "01-identidad-visual"
+    "title": "02-Cromática",
+    "href": "/01-brand-identity/02-cromatica",
+    "content": "02 Cromática Una paleta que equilibra innovación y confianza. Los colores definidos a continuación constituyen la base visual de la marca y deben respetarse en todo momento. Han sido seleccionados cuidadosamente para representar su identidad, por lo que cualquier aplicación debe apegarse a esta paleta para garantizar coherencia, reconocimiento y solidez en la comunicación. Paleta Principal El violeta actúa como el eje creativo y diferenciador, transmitiendo tecnología, visión y futuro. Se escogió este color como principal para representar el ámbito tecnológico desde una perspectiva más moderna y distintiva, alejándose del uso tradicional del azul. Se buscó un violeta más encendido, que aporte energía, carácter y una identidad visual más memorable. El violeta profundo, cercano al negro, aporta solidez, seguridad y respaldo, mientras que el gris funciona como base neutra que ordena, limpia y da claridad al sistema visual. Paleta Secundaria La paleta secundaria complementa la identidad visual de la marca y se utiliza exclusivamente para diferenciar y organizar sus subcategorías. Su uso debe ser controlado y estratégico, manteniendo coherencia con la paleta principal. Estos colores per",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Tipografía",
-    "href": "/01-identidad-visual/03-tipografia",
-    "content": "Tipografía Tipografía Principal La tipografía principal de Aluve, utilizada también en la construcción del logotipo, es PP Eiko. Su elección responde a una afinidad conceptual con la identidad de la marca, estableciendo una relación directa entre forma tipográfica y lenguaje visual. PP Eiko se inspira en el trabajo de Eiko Ishioka reconocida por su impacto en la dirección de arte y el diseño. Esta referencia aporta un trasfondo cultural y estético alineado con la sensibilidad minimalista y expresiva que define a la marca. La tipografía se caracteriza por sus líneas pulidas, proporciones equilibradas y espacios abiertos, elementos que favorecen una lectura elegante y una presencia visual refinada. Cada detalle formal responde a un criterio de intención y propósito, reforzando la construcción de una identidad sobria y cuidadosamente estructurada. Tipografía Secundaria La tipografía secundaria de Aluve funciona como complemento de la tipografía principal, aportando versatilidad y claridad en la comunicación. La elección de PP Neue Montreal responde a la necesidad de equilibrar la identidad visual, evitando encasillar a la marca dentro de una estética excesivamente foránea para el merc",
-    "section": "01-identidad-visual"
+    "title": "03-Tipografía",
+    "href": "/01-brand-identity/03-tipografia",
+    "content": "03 Tipografía Tipografía Principal La tipografía principal de Polgroup se utiliza en títulos, encabezados y subcategorías de la marca. Su estilo moderno, limpio y geométrico aporta claridad y presencia visual, facilitando la jerarquización de la información y destacando los mensajes clave. Además, su estética tecnológica refuerza el carácter profesional y moderno de la marca. Tipografía Secundaria La tipografía Poppins se utiliza como tipografía secundaria de Polgroup, acompañando a la tipografía principal en títulos, subtítulos y piezas de comunicación. Su estilo moderno, geométrico y altamente legible aporta claridad y equilibrio visual, permitiendo estructurar la información de forma limpia y profesional. Su versatilidad facilita la lectura en entornos digitales y refuerza la estética tecnológica de la marca, complementando la personalidad de la tipografía principal sin restarle protagonismo.",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Elementos Gráficos",
-    "href": "/01-identidad-visual/04-elementos-graficos",
-    "content": "Elementos Gráficos El fuego y las llamas representan un elemento conceptual complejo de representar debido a su naturaleza dinámica y cambiante. Al no tratarse de una forma estática, su interpretación gráfica requiere un recurso que permita transmitir movimiento, transición y fluidez. Los gradientes de color se establecen como la solución visual más cercana para representar este comportamiento orgánico. A través de transiciones suaves y composiciones abstractas, se evoca la transformación constante del fuego, reforzando el carácter sensorial de la marca. Su uso está pensado para aplicaciones específicas dentro de la comunicación visual, donde se requiera aportar profundidad, dinamismo o énfasis conceptual, siempre manteniendo coherencia con la estética minimalista y equilibrada del sistema de marca.",
-    "section": "01-identidad-visual"
+    "title": "04-Elementos Gráficos",
+    "href": "/01-brand-identity/04-elementos-graficos",
+    "content": "04 Elementos Gráficos Los elementos gráficos de Polgroup se basan en formas geométricas simples construidas a partir de degradados en la gama violeta. Estas formas generan composiciones dinámicas que aportan profundidad, movimiento y una estética tecnológica coherente con la marca. El uso de curvas suaves y bordes redondeados transmite fluidez y modernidad, mientras que la repetición de módulos crea sistemas visuales consistentes y escalables. Los degradados no solo aportan riqueza visual, sino que también ayudan a dirigir la atención y jerarquizar la información dentro de las piezas. En conjunto, estos elementos funcionan como un sistema gráfico flexible que permite múltiples aplicaciones sin perder identidad, manteniendo siempre una apariencia limpia, actual y reconocible. Además de los degradados, Polgroup incorpora recursos visuales tridimensionales tipo vidrio en tonos violetas. Estos elementos aportan profundidad, refuerzan la estética tecnológica de la marca y elevan la percepción visual, complementando el sistema gráfico de forma coherente y versátil.",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Estilo Fotográfico",
-    "href": "/01-identidad-visual/05-estilo-fotografico",
-    "content": "Estilo Fotográfico Producto & Ambientación El estilo fotográfico de Aluve se fundamenta en composiciones sobrias y equilibradas, donde el producto se presenta con una intención estética clara y un carácter aspiracional. Cada imagen debe priorizar la atmósfera y la narrativa visual, permitiendo que la luz, las texturas y los espacios construyan una experiencia sensorial coherente con la identidad de la marca. La incorporación del producto dentro de ambientaciones controladas y conceptualmente alineadas resulta clave para posicionar la marca dentro de la categoría deseada y, al mismo tiempo, generar diferenciación frente a otras propuestas del mismo segmento. El enfoque fotográfico se orienta a comunicar sensaciones y experiencias, no a replicar códigos de comunicación comercial masiva. Lifestyle Integrar el producto dentro de contextos reales es fundamental para que el público objetivo pueda proyectar cómo sería percibido en su propio entorno cotidiano. Este recurso permite reforzar la conexión emocional con la experiencia sensorial que propone Aluve. Estas representaciones deben mantener un alto nivel de dirección artística, conservando su carácter curado y una estética minimalista",
-    "section": "01-identidad-visual"
+    "title": "05-Estilo Fotográfico",
+    "href": "/01-brand-identity/05-estilo-fotografico",
+    "content": "05 Estilo Fotográfico Este estilo fotográfico se caracteriza por una estética tecnológica centrada en lo humano. Utiliza iluminación baja y contrastada, donde la luz principal proviene de pantallas o interfaces digitales en tonos fríos como azul, verde o violeta, generando un ambiente moderno y controlado. Los fondos suelen ser oscuros y desenfocados, lo que permite destacar al sujeto en primer plano, generalmente personas trabajando, analizando o gestionando procesos. La composición es limpia y dirigida, transmitiendo enfoque, precisión y eficiencia. En conjunto, proyecta una narrativa clara: tecnología aplicada por personas para generar resultados reales.",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Aplicaciones",
-    "href": "/01-identidad-visual/06-aplicaciones",
-    "content": "Aplicaciones",
-    "section": "01-identidad-visual"
+    "title": "06-Aplicaciones",
+    "href": "/01-brand-identity/06-aplicaciones",
+    "content": "06 Aplicaciones",
+    "section": "01-brand-identity"
   },
   {
-    "title": "Logo",
-    "href": "/01-identidad-visual",
-    "content": "Logo El logo de Aluve se construye a partir de trazos geométricos curvos, rectos y minimalistas, definidos para proyectar una identidad visual serena y atemporal. Su estructura busca transmitir calma, equilibrio y fluidez, evitando recursos visuales excesivos para destacar una belleza sutil y contemplativa. La composición responde a un lenguaje formal limpio y balanceado, donde cada trazo cumple una función estética y conceptual. Inspirado en la filosofía Japandi, el símbolo representa el punto de encuentro entre simplicidad y propósito, reforzando la idea de que la marca se expresa a través de la armonía visual y la sensibilidad sensorial. El resultado es un logo de presencia discreta pero sólida, diseñado para integrarse de manera natural en espacios y experiencias donde la luz, las texturas y la atmósfera son protagonistas. Valores Intrínsecos Construcción Geométrica Logo Isotipo Variaciones Las variaciones del logo de Aluve han sido diseñadas para adaptarse con flexibilidad a distintos contextos y formatos de aplicación. Las versiones mostradas anteriormente son de considerarse como principales, es decir, deben ser las que se usan con mayor frecuencia dentro de la comunicación ",
-    "section": "01-identidad-visual"
+    "title": "07-Social Media Communication",
+    "href": "/01-brand-identity/07-social-media-communication",
+    "content": "07 Social Media Communication El Sistema de comunicación de Polgroup en social media, alineando estrategia, mensaje y ejecución visual. No se trata solo de contenido, sino de construir una narrativa consistente que posicione a la marca como un actor clave en la generación de resultados reales. La esencia de Polgroup: qué hace, cómo lo hace y, sobre todo, qué lo diferencia en un mercado donde muchas empresas gestionan, pero pocas convierten. Polgroup nace con una premisa clara: transformar la gestión en resultados concretos. Más que operar procesos, la marca se enfoca en generar impacto tangible en el negocio de sus clientes. Polgroup integra tecnología, operación y talento humano para optimizar todo el flujo comercial. Su propuesta no está fragmentada: conecta cada etapa —desde la oportunidad hasta el pago— para asegurar resultados medibles. La diferencia no está en hacer más, sino en convertir mejor. El claim principal condensa la promesa de valor de la marca en una idea simple y poderosa: transformar procesos en resultados. Es el eje que guía toda la comunicación. Esta frase resume el cambio de enfoque que propone Polgroup: pasar de una lógica operativa a una lógica de impacto. N",
+    "section": "01-brand-identity"
+  },
+  {
+    "title": "01-Logo",
+    "href": "/01-brand-identity",
+    "content": "01 Logo El logotipo de Polgroup fue desarrollado a partir de una tipografía base, la cual fue refinada y mejorada cuidadosamente. Se pulieron sus curvas, terminaciones y proporciones hasta obtener una tipografía moderna, sólida y con carácter, que se convirtió en el logotipo principal de la marca. Valores Intrínsecos A esta construcción se le incorporó un isotipo o ícono complementario, inspirado en las cadenas como símbolo de unión y conexión. Este elemento representa una cadena de comunicación, pero fue diseñado sin cerrarse por completo, con el fin de transmitir apertura, cercanía y flexibilidad hacia los clientes.",
+    "section": "01-brand-identity"
   }
 ]

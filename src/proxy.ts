@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { hostname, pathname } = request.nextUrl
 
   let clientName = 'partner-gym' // Default client

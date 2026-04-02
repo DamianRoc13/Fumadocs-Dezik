@@ -124,7 +124,11 @@ async function importFromSections() {
       // No agregar frontmatter - el contenido ya tiene su H1 interno
       const mdxContent = content
 
-      const mdxFileName = mdFile.replace(/\.md$/, '.mdx')
+      // Usar slugify para evitar problemas de codificación (NFC/NFD) de tildes y espacios en Vercel
+      const baseName = mdFile.replace(/\.mdx?$/, '')
+      const fileNameStr = baseName.toLowerCase() === 'index' ? 'index' : slugify(baseName)
+      const mdxFileName = `${fileNameStr}.mdx`
+      
       const mdxPath = path.join(sectionContentDir, mdxFileName)
 
       await fs.outputFile(mdxPath, mdxContent)
