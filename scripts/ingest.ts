@@ -128,6 +128,9 @@ async function importFromSections() {
       // También maneja rutas sin carpeta padre
       content = content.replace(/!\[([^\]]*)\]\(([^/)]+\.[a-z]+)\)/g, `![$1](/${TARGET_CLIENT}/$2)`)
 
+      // Limpiar el H1 interno si tiene numeración (ej. "# 01-Logo" -> "# Logo")
+      content = content.replace(/^#\s+(?:\d+[-_\s]+)?(.*)$/m, '# $1')
+
       // No agregar frontmatter - el contenido ya tiene su H1 interno
       const mdxContent = content
 
