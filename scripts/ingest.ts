@@ -82,6 +82,13 @@ async function importFromSections() {
     return
   }
 
+  // Limpiar directorios de destino antes de generar
+  console.log(`🧹 Limpiando directorios generados anteriores para ${TARGET_CLIENT}...`)
+  await fs.remove(path.join(CONTENT))
+  await fs.remove(path.join(APP, TARGET_CLIENT))
+  await fs.ensureDir(path.join(CONTENT))
+  await fs.ensureDir(path.join(APP, TARGET_CLIENT))
+
   const sectionDirs = await fs.readdir(SECTIONS_DIR)
   const sortedDirs = sectionDirs.sort()
 
