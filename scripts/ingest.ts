@@ -293,8 +293,9 @@ async function generateNavigation(): Promise<NavItem[]> {
         const subParsed = matter(subContent)
 
         const subH1Title = extractFirstH1(subParsed.content)
+        const cleanH1Title = subH1Title ? cleanNotionId(subH1Title) : null
         const cleanSubFileName = cleanNotionId(subFile.replace(/\.mdx$/, ''))
-        const subTitle = subParsed.data.title || subH1Title || cleanSubFileName
+        const subTitle = subParsed.data.title || cleanH1Title || cleanSubFileName
         const subSlug = slugify(subFile.replace(/\.mdx$/, ''))
         const subHref = `${href}/${subSlug}`
 
