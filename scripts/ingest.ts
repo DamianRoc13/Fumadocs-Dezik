@@ -70,6 +70,37 @@ function extractFirstH1(content: string): string | null {
   return h1Match ? h1Match[1].trim() : null
 }
 
+function resolveAssetFileName(fileName: string): string {
+  const directPath = path.join(CLIENT_PUBLIC_SRC, fileName)
+  if (fs.existsSync(directPath)) {
+    return fileName
+  }
+
+  const parsed = path.parse(fileName)
+  const ext = parsed.ext.toLowerCase()
+  if (!ext) {
+    return fileName
+  }
+
+  const alternatives: string[] = []
+  if (ext === '.webp') {
+    alternatives.push('.jpg', '.jpeg', '.png')
+  } else if (ext === '.jpg' || ext === '.jpeg') {
+    alternatives.push('.webp', '.png')
+  } else if (ext === '.png') {
+    alternatives.push('.webp', '.jpg', '.jpeg')
+  }
+
+  for (const altExt of alternatives) {
+    const candidate = `${parsed.name}${altExt}`
+    if (fs.existsSync(path.join(CLIENT_PUBLIC_SRC, candidate))) {
+      return candidate
+    }
+  }
+
+  return fileName
+}
+
 async function readBrandConfig(): Promise<BrandConfig | null> {
   if (!fs.existsSync(CONFIG_FILE)) return null
   const config = await fs.readJson(CONFIG_FILE)
@@ -124,9 +155,15 @@ async function importFromSections() {
       let content = parsed.content
       // Reemplazar rutas de imágenes relativas con rutas de /public/{cliente}/
       // Busca patrones como: ![alt](../folder/image.png) o ![alt](folder/image.png)
-      content = content.replace(/!\[([^\]]*)\]\((?!https?|\/)[^)]*\/([^/)]+)\)/g, `![$1](/${TARGET_CLIENT}/$2)`)
+      content = content.replace(/!\[([^\]]*)\]\((?!https?|\/)[^)]*\/([^/)]+)\)/g, (_, alt, fileName) => {
+        const resolved = resolveAssetFileName(fileName)
+        return `![${alt}](/${TARGET_CLIENT}/${resolved})`
+      })
       // También maneja rutas sin carpeta padre
-      content = content.replace(/!\[([^\]]*)\]\(([^/)]+\.[a-z]+)\)/g, `![$1](/${TARGET_CLIENT}/$2)`)
+      content = content.replace(/!\[([^\]]*)\]\(([^/)]+\.[a-z0-9]+)\)/gi, (_, alt, fileName) => {
+        const resolved = resolveAssetFileName(fileName)
+        return `![${alt}](/${TARGET_CLIENT}/${resolved})`
+      })
 
       // Limpiar el H1 interno si tiene numeración (ej. "# 01-Logo" -> "# Logo")
       content = content.replace(/^#\s+(?:\d+[-_\s]+)?(.*)$/m, '# $1')

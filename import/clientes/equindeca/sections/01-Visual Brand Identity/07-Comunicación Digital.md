@@ -1,0 +1,215 @@
+# 07. Comunicación Digital
+
+**EQUINDECA**
+
+**GASTRO | HOTEL | SERVICE**
+
+Equindeca es una empresa ecuatoriana con 32 años de trayectoria en soluciones gastronómicas integrales para el sector HORECA. Opera bajo tres líneas de negocio: GASTRO, HOTEL y SERVICE, posicionándose como un integrador estratégico B2B que no solo vende equipos sino que diseña, instala y mantiene soluciones completas.
+
+# Concepto rector: La estrategia “Mise en Place”
+
+En una cocina profesional, el mise en place es tener cada ingrediente preparado, medido y en su lugar antes de cocinar. Sin él, el servicio colapsa. Este principio rige la estrategia de contenido: cada post, reel o historia es un “ingrediente” que, organizado con intención, construye la percepción total de la marca.
+
+Se alinea directamente con el principio Gestalt del manual de identidad: el todo es mayor que la suma de sus partes. No se publican piezas aisladas; cada contenido contribuye a una narrativa coherente de autoridad, innovación y servicio integral.
+
+![EQI_GUIDELINES_P035.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_COMUNICACIÓN-DIGITAL_01.webp)
+
+![EQI_GUIDELINES_P036.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_COMUNICACIÓN-DIGITAL_02.webp)
+
+![EQI_GUIDELINES_P037.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_COMUNICACIÓN-DIGITAL_03.webp)
+
+![EQI_GUIDELINES_P038.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_COMUNICACIÓN-DIGITAL_04.webp)
+
+# Pilares de comunicación
+
+Cada pilar define un territorio temático con directriz visual vinculada al manual de marca:
+
+## Pilar de Autoridad y Confianza
+
+**Territorio:** Trayectoria de 31 años, certificaciones del equipo técnico, participación en ferias, capacitaciones internacionales, cultura de empresa.
+
+**Directriz visual:** Predominio de tonos oscuros (fuerza, confianza, percepción premium). Fotografía con el estilo del manual: contraste fuerte, detalle en acero, fondos oscuros.
+
+**Mensajes clave:** “Somos Equindeca. 31 años brindando soluciones gastronómicas integrales.” “Únicos con chefs certificados por Rational en Ecuador.”
+
+## Pilar de Soluciones (Comercial)
+
+**Territorio:** Las tres líneas (GASTRO | HOTEL | SERVICE) y el portafolio de marcas. Mostrar equipos en contexto real, no como catálogo aislado.
+
+**Directriz visual:** Equilibrio entre orden mecánico y calor humanista. Usar las ilustraciones isométricas del manual para presentar equipos. Combinar con fotografía de instalaciones reales.
+
+**Segmentación de mensajes:**
+
+- Restaurantes: precisión, optimización de tiempos, mise en place perfecto.
+- Hoteles: eficiencia global, ROI, servicio técnico confiable, durabilidad.
+- Cadenas (tipo Pizza Hut): escalabilidad, estandarización, asesoría para crecimiento.
+- Cafeterías: soluciones de café (WFM/Casadio), filtración (Everpure), equipamiento compacto.
+- Panaderías / Pastelerías: hornos, ultracongelación (Irinox), optimización de producción.
+- Heladerías: refrigeración (Atosa), conservación, equipamiento específico.
+
+## Pilar Estratégico / Educativo
+
+**Territorio:** Conocimiento aplicado sobre optimización de cocinas, tendencias HORECA, comparativas de tecnología, datos del sector.
+
+**Directriz visual:** Predominio del violeta de marca (pensamiento estratégico, sofisticación, inteligencia). Formato carrusel o infografía.
+
+**Ejemplos concretos:** “5 formas de optimizar la operación de tu hotel”, “Horno combi vs. horno convencional: la diferencia real”, “Qué considerar antes de equipar una cocina de 100 servicios”.
+
+# Tono de voz y directrices de copy
+
+El tono de Equindeca es de asesor experto: técnico pero comprensible, directo, orientado a resultados. No es vendedor ni catálogo. Habla como un socio que sabe de lo que habla.
+
+| **SÍ es Equindeca** | **NO es Equindeca** |
+| --- | --- |
+| Técnico pero comprensible | Jerga académica o excesivamente técnica |
+| Directo, orientado a resultados y eficiencia | Vago, emocional o aspiracional sin sustancia |
+| Datos concretos y cifras (31 años, 4 chefs certificados) | Promesas genéricas (“los mejores”, “calidad total”) |
+| Hablar de soluciones integrales y ecosistema | Describir solo características de un equipo aislado |
+| Lenguaje de socio estratégico B2B | Lenguaje de tienda online o catálogo |
+| “Equindeca hace el éxito de tu negocio” | “Compra ahora”, “Oferta”, “Liquidación” |
+
+### Palabras clave de marca
+
+Eficiencia, precisión, soluciones integrales, optimización, rendimiento, diseño, respaldo, confianza, innovación, certificación, 31 años, ecosistema, mise en place.
+
+### Palabras a evitar
+
+Barato, oferta, liquidación, “el mejor precio”, “aprovéchalo ya”, descuento, promo. Nada que posicione por precio.
+
+### Estructura de copys por segmento
+
+Los copys deben adaptar el gancho según a quién se dirigen:
+
+- **Restaurantes:** “Tu cocina en su máximo rendimiento. Equindeca diseña la solución, no solo vende el equipo.”
+- **Hoteles:** “Optimiza la operación de tu hotel con tecnología gastronómica de clase mundial.”
+- **Cadenas:** “¿Quieres crecer como cadena? Te asesoramos para estandarizar y escalar.”
+- **Panaderías:** “Equindeca te ayuda a optimizar tu panadería con hornos y ultracongelación de primer nivel.”
+
+# Embudo de contenidos
+
+Cada pieza de contenido se clasifica dentro del embudo para impactar al usuario según su nivel de familiaridad con Equindeca:
+
+## TOFU — Conciencia
+
+**Objetivo:** Atraer interés inicial. No se vende un equipo; se muestra la solución al caos o la ineficiencia.
+
+### Formatos
+
+- **Reels dinámicos (15-30s):** Tomas rápidas de cocinas industriales, brillo del acero, precisión en funcionamiento. Usar material de instalaciones existentes.
+- **Videos en restaurantes reales:** Contenido grabado directamente en cocinas de clientes de Equindeca, mostrando los equipos en operación real durante el servicio. Este formato es el más poderoso porque combina prueba social con demostración de producto en contexto.
+- **Behind-the-scenes:** Montaje de cocinas, técnicos en acción, viajes de capacitación (Chile / Henny Penny, ferias como RINI).
+- **Contenido “Mise en Place Profesional”:** Cómo una cocina bien equipada optimiza flujos de trabajo.
+
+### KPIs
+
+- Alcance de publicaciones.
+- Reproducciones de reels.
+- Nuevos seguidores por semana.
+
+## MOFU — Consideración
+
+**Objetivo:** El prospecto necesita equipamiento; debe entender por qué Equindeca es mejor opción que comprar equipo suelto a otro distribuidor.
+
+### Formatos
+
+- **Carruseles estratégicos:** “5 formas de optimizar la operación de tu hotel”, “Horno combi vs. horno convencional”, “Qué equipo necesita tu cocina según el número de servicios”.
+- **Soluciones integrales por marca:** Contenido que muestra cómo Rational + Firex + Irinox resuelven una cocina completa, no en silos.
+- **Videos técnicos en restaurantes:** Registrar las visitas a restaurantes para crear mini-documentales de 60-90s: el chef explica qué equipo usa, por qué lo eligió, cómo le cambió la operación. Formato ideal para carrusel de video o reel extendido.
+- **Infografías técnicas:** Comparativas de equipos, datos del sector HORECA ecuatoriano, tendencias.
+- **Contenido de capacitación:** Extractos de las certificaciones Rational/UNOX, mostrando al equipo en acción.
+
+### KPIs
+
+- Guardados y compartidos.
+- Comentarios con preguntas técnicas.
+- Clics en perfil / enlace.
+- Engagement rate > 3%.
+
+## BOFU — Conversión
+
+**Objetivo:** Cerrar. Generar decisión de contacto. Tono de autoridad, confianza y premium.
+
+### Formatos
+
+- **Casos de éxito:** Fotos y videos de cocinas montadas por Equindeca con datos medibles. Incluir instalaciones como Lelechita (Cucimix).
+- **Testimonios en video:** Grabados durante las visitas a restaurantes: el chef o gerente habla directamente a cámara sobre el impacto del equipamiento. Formato corto (30-60s), sin sobreproducción. Este contenido es el más efectivo para conversión.
+- **Certificaciones como argumento de cierre:** “Únicos con chefs certificados por Rational en Ecuador. No solo vendemos, capacitamos.”
+- **Activaciones privadas:** Demostraciones técnicas en el showroom de Equindeca (Guayaquil — primera semana de abril). Invitar clientes potenciales.
+- **Fichas técnicas premium:** Contenido detallado que refuerce autoridad y calidad.
+- **Social proof:** Logos de clientes, números de proyectos, años de servicio.
+
+### KPIs
+
+- Mensajes directos recibidos.
+- Solicitudes de cotización.
+- Clics a WhatsApp Business.
+- Leads calificados por mes.
+
+# Definición de audiencias
+
+El plan se enfoca en tomadores de decisión B2B del sector HORECA y segmentos relacionados:
+
+| **Segmento** | **Qué buscan** | **Marcas relevantes** | **Contenido clave** |
+| --- | --- | --- | --- |
+| Gerentes de hotel / Dir. compras | ROI, durabilidad, servicio técnico confiable | Rational, Firex, Unox, Atosa | MOFU/BOFU: carruseles, casos de éxito |
+| Chefs ejecutivos / Dueños restaurante | Precisión, innovación, mise en place perfecto | Rational, Vitamix, MerryChef | TOFU/MOFU: reels, carruseles técnicos |
+| Cadenas (fast casual, fast food) | Estandarización, escalabilidad, asesoría | Henny Penny, HME, Rational | MOFU/BOFU: soluciones integrales |
+| Panaderías / Pastelerías | Hornos, ultracongelación, eficiencia | Unox, Irinox, Rational | TOFU/MOFU: educativo + producto |
+| Cafeterías | Soluciones de café, filtración, compacto | WFM/Casadio, Everpure | TOFU: reels de producto en uso |
+| Comunidad gastronómica | Inspiración, referentes, estándares | Todas (aspiracional) | TOFU: visual, behind-the-scenes |
+
+# Estrategia por plataforma
+
+## Instagram / Facebook
+
+**Rol:** Vitrina principal de branding visual y punto de entrada para leads.
+
+**Audiencia:** Chefs, dueños de restaurante, comunidad gastronómica, panaderías.
+
+**Formatos:** Reels (TOFU), carruseles (MOFU), posts estáticos con testimonios (BOFU), stories behind-the-scenes.
+
+### Historias destacadas
+
+Organizar los highlights por estos temas:
+
+- Somos Equindeca — 31 años, equipo, cultura.
+- GASTRO — Soluciones para restaurantes y cocinas.
+- HOTEL — Soluciones para hotelería.
+- SERVICE — Servicio técnico, mantenimiento, certificaciones.
+- Marcas — Rational, Unox, Firex, Vitamix (las principales).
+- Casos de éxito — Instalaciones reales.
+- Showroom — Invitación a conocer el espacio.
+- Certificaciones — Equipo certificado de fábrica.
+
+### Directrices
+
+- Bio: propuesta de valor + CTA a WhatsApp o showroom.
+- Estética de feed alineada a la paleta: alternar tonos oscuros, violetas y claros.
+- Hashtags: #Equindeca #MiseEnPlaceProfesional #SolucionesGastronomicas #HORECA #CocinaProfesional + específicos por marca (#Rational #Unox).
+
+## LinkedIn
+
+**Rol:** Canal estratégico B2B para tomadores de decisión.
+
+**Audiencia:** Gerentes de hotel, directores de compras, cadenas.
+
+**Formatos:** Artículos de opinión, carruseles con copy largo orientado a ROI, casos de éxito con datos.
+
+### Directrices
+
+- Copy más extenso y corporativo. Incluir cifras, resultados y contexto de negocio.
+- 2-3 publicaciones/semana (calidad sobre cantidad).
+- Banner y descripción actualizados con nueva identidad.
+- Equipo directivo de Equindeca comparta contenido desde perfiles personales.
+
+## TikTok / Reels
+
+**Rol:** Canal de alcance masivo para TOFU.
+
+**Formatos:** Behind-the-scenes de montajes, funcionamiento de maquinaria, humanización del equipo técnico.
+
+- Contenido nativo: vertical, ritmo rápido, sin sobreproducción.
+- Mostrar al técnico que lleva años instalando, al chef certificado en acción.
+- Usar tendencias de audio cuando sea coherente con la marca.
+
+---

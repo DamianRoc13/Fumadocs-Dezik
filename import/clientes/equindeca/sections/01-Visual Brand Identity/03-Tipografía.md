@@ -1,0 +1,67 @@
+# 03. Tipografía
+
+El sistema tipográfico de Equindeca se adapta a distintos contextos comunicacionales, pudiendo expresarse de manera fuerte y expresiva o sobria y elegante, según la necesidad.
+
+Esta flexibilidad permite responder a una amplia variedad de escenarios, desde aplicaciones más técnicas y funcionales hasta piezas con un carácter más comunicacional o editorial.
+
+En todos los casos, el sistema tipográfico garantiza coherencia y consistencia, manteniendo siempre el foco en la claridad, la legibilidad y la correcta transmisión del mensaje.
+
+## Tipografía Principal
+
+**FH Lecturis** es la tipografía principal de Equindeca.
+
+Diseñada para sistemas editoriales e identidades institucionales, prioriza la claridad visual y la legibilidad en distintos contextos de uso.
+
+Su carácter equilibra una estructura racional, de lógica mecánica, con matices de calidez humanista. Se sitúa en un punto donde la precisión encuentra la sutileza.
+
+Su construcción remite a las letras grabadas en metal, con una retícula clara y una estructura definida que refuerza su carácter técnico.
+
+Esta tipografía conecta a Equindeca con su dimensión industrial, sin perder la cercanía necesaria para acompañar experiencias centradas en el usuario.
+
+![EQI_GUIDELINES_P048.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_01.webp)
+
+![EQI_GUIDELINES_P011.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_02.webp)
+
+![EQI_GUIDELINES_P012.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_03.webp)
+
+## Tipografía Secundaria
+
+**Lineto Circular** es la tipografía secundaria de Equindeca.
+
+De carácter universal, equilibra funcionalidad, rigor conceptual y desempeño práctico, manteniendo un lenguaje contemporáneo y de alcance internacional.
+
+Su diseño combina lo racional con una calidez sutil, permitiendo complementar a la tipografía principal sin competir con ella.
+
+Se utiliza principalmente como apoyo dentro del sistema tipográfico, aportando contraste y facilitando la jerarquía de la información en distintas aplicaciones.
+
+![EQI_GUIDELINES_P049.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_04.webp)
+
+![EQI_GUIDELINES_P013.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_05.webp)
+
+![EQI_GUIDELINES_P014.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_06.webp)
+
+## Sistema Tipográfico
+
+El sistema tipográfico de Equindeca se basa en un principio de simplicidad, con el objetivo de garantizar una comunicación coherente y consistente en todas sus aplicaciones.
+
+Este sistema permite cierto grado de flexibilidad: en función del contexto, es posible utilizar exclusivamente la tipografía principal o la tipografía secundaria, siempre que la decisión responda a un criterio comunicacional claro.
+
+Aunque ambas familias tipográficas cuentan con múltiples pesos, se ha definido un uso limitado de estilos para simplificar la comunicación y facilitar la correcta reproducción de las piezas gráficas.
+
+La tipografía cumple un rol fundamental en la construcción de la identidad de Equindeca. Su influencia se extiende incluso al sistema iconográfico, donde los íconos comparten terminaciones y trazos característicos de FH Lecturis, reforzando la percepción de un sistema unificado.
+
+De este modo, todos los elementos gráficos se perciben como parte de una misma lógica, evitando soluciones aisladas o desconectadas.
+
+![EQI_GUIDELINES_P051.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_07.webp)
+
+![EQI_GUIDELINES_P021.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_08.webp)
+
+![EQI_GUIDELINES_P052.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_09.webp)
+
+![EQI_GUIDELINES_P028.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_10.webp)
+
+![EQI_GUIDELINES_P053.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_11.webp)
+
+![EQI_GUIDELINES_P054.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_12.webp)
+
+![EQI_GUIDELINES_P025.jpg](DBDF2D46-859A-467D-AFB5-F3FEB7007715_EXPORTBLOCK-B3814493-A94C-4517-90EA-324394990D37_TIPOGRAFÍA_13.webp)
