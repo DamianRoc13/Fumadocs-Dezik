@@ -59,8 +59,8 @@ function slugify(text: string): string {
 function cleanNotionId(text: string): string {
   // Remover IDs tipo: "Nombre 2d3ac768aa29805bbb1bf19124e6ba04"
   let cleaned = text.replace(/\s+[0-9a-f]{32}$/i, '').trim()
-  // Remover prefijos numéricos como "01-", "02-", "1-", "2-", etc.
-  cleaned = cleaned.replace(/^\d+-/, '').trim()
+  // Remover prefijos numéricos como "01-", "02-", "1-", "2-", "01. ", "1. ", etc.
+  cleaned = cleaned.replace(/^\d+(?:-|[\.\s]+)\s*/, '').trim()
   return cleaned
 }
 
