@@ -1,0 +1,27 @@
+# 04 - Tipografía
+
+## Tipografía Principal
+
+**Gill Sans MT Std** se establece como la tipografía principal de **TRUKÖ,** utilizada principalmente para títulos y subtítulos. Su estructura sans serif aporta una apariencia limpia, moderna y directa, alineándose con una marca dinámica, flexible y fácil de reconocer.
+
+Sus formas simples y equilibradas permiten una lectura clara en piezas gráficas, empaques, señalética y medios digitales. Al mismo tiempo, su personalidad visual transmite cercanía y seguridad, manteniendo un tono contemporáneo sin perder calidez ni expresividad.
+
+Complementa su sistema gráfico atrevido y geométrico. Su presencia tipográfica ayuda a construir una comunicación ordenada, legible y coherente, ideal para destacar mensajes principales dentro de una marca gastronómica moderna y memorable.
+
+![TRU_BRANDGUIDELINES_PAGE-05.jpg](TRUKO_TIPOGRAFÍA_01.webp)
+
+## Tipografía Secundaria
+
+**GT Ultra** se establece como la tipografía secundaria, utilizada principalmente para descripciones, textos corridos y contenidos informativos. Su diseño aporta equilibrio y legibilidad, permitiendo que la comunicación de la marca sea clara, ordenada y fácil de leer en distintos soportes.
+
+Esta tipografía complementa la fuerza visual de **Gill Sans MT Std**, generando un contraste funcional entre títulos y cuerpos de texto. Mientras la tipografía principal destaca los mensajes más importantes, **GT Ultra** sostiene la información con una presencia más sutil, fluida y elegante.
+
+Su uso refuerza una identidad moderna y cuidada, manteniendo coherencia en piezas editoriales, menús, manuales, publicaciones, empaques y materiales digitales. Gracias a su versatilidad, permite que **TRUKÖ** comunique de manera cercana y profesional sin perder su personalidad dinámica y expresiva.
+
+![TRU_BRANDGUIDELINES_PAGE-06.jpg](TRUKO_TIPOGRAFÍA_02.webp)
+
+## Empleación
+
+![TRU_BRANDGUIDELINES_CROMATICA copy 4.jpg](TRUKO_TIPOGRAFÍA_03.webp)
+
+[FONTS.zip](FONTS.zip)

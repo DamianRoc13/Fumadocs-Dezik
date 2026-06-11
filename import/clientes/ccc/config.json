@@ -1,0 +1,9 @@
+{
+  "projectName": "Camara Comercio Cuenca",
+  "domain": "ccc.helloprisma.com",
+  "secondaryColors": {
+    "highlight": "#D6F800",
+    "accent": "#EFEFEF",
+    "hover": "#EFEFEF"
+  }
+}

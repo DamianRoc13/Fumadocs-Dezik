@@ -1,0 +1,11 @@
+# 01-Marca
+
+**Dos Chorreras** es una  empresa ecuatoriana, con toda su infraestructura desarrollada y excelencia en sus servcios. Es uno de los complejos turísticos más importantes de la región y del país. Situados a 25 minutos de la ciudad de Cuenca en las afueras del Parque Nacional Cajas, un lugar con una espectacular naturaleza a 3435 metros de altura.
+
+![DOS_MANUAL_MARCA_NOTIONn.jpg](DOS-CHORRERAS_MARCA_01.webp)
+
+Nace a partir de la inspiración por la naturaleza, la pasión por la hospitalidad, y la armonía entre ambas; busca ser una empresa estable, eficiente, segura y comprometida con la sostenibilidad y la comunidad. Su objetivo es llegar a cumplir las expectativas de los huéspedes y clientes para que su experiencia sea inolvidable.
+
+Se inspira en la fuerza y pureza de sus cascadas que representan vida, origen y equilibrio. Esta marca recoge el espíritu de un territorio privilegiado, donde el agua y la tierra se encuentran para dar forma a una esencia auténtica, arraigada en la tradición y el respeto por el entorno. 
+
+Con el paso del tiempo, **Dos Chorreras** se ha consolidado como un símbolo de orgullo local, reflejando compromiso con la calidad, la sostenibilidad y el desarrollo de su comunidad, manteniendo siempre viva la esencia natural que le da nombre y proyectándola hacia el futuro con propósito y responsabilidad.

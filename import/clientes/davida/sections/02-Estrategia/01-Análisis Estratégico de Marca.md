@@ -1,0 +1,128 @@
+# 06-Análisis Estratégico de Marca
+
+### **1. Diagnóstico General**
+
+![davida - Frame 2.jpg](DAVIDA_ANÁLISIS-ESTRATÉGICO-DE-MARCA_01.webp)
+
+DAVIDA opera actualmente como dos negocios bajo el mismo nombre: un servicio de sueroterapia IV orientado al wellness y rendimiento deportivo (DAVIDA Healthy Sport), y un negocio de equipos médicos respiratorios, enfermería domiciliaria y oxigenoterapia (DAVIDA Equipos). Ambas unidades comparten marca, pero atienden audiencias completamente distintas, lo que genera disonancia cognitiva y debilita la marca.
+
+**Problemas Críticos Identificados:**
+
+1. Ambigüedad de identidad.
+2. Fragmentación del portafolio.
+3. Comunicación centrada en ingredientes en lugar de resultados.
+4. Estética desalineada.
+
+### **Brand Core y Posicionamiento**
+
+**Concepto Central Propuesto:**
+
+DAVIDA Healthy Sport debe posicionarse como un centro de optimización funcional, no es una clínica ni un gimnasio, sino un espacio donde la ciencia médica se aplica para que personas activas rindan mejor y se recuperen más rápido.
+
+**Diferenciadores Clave:**
+
+1. Ubicación en un gimnasio.
+2. Combinación única de suero + oxígeno.
+3. Respaldo médico directo.
+
+### **3. Arquitectura de Marca**
+
+**Problema Actual:**
+
+DAVIDA funciona como un nombre paraguas para dos negocios incompatibles, lo que genera confusión en el mercado.
+
+**Arquitectura Recomendada:**
+
+**Opción A:** Separación completa (recomendada).
+
+- **Unidad 1:** DAVIDA Healthy Sport (para wellness deportivo).
+- **Unidad 2:** DAVIDA Medical / DAVIDA Salud Respiratoria (para servicios médicos).
+
+### **4. Análisis de Portafolio de Productos**
+
+**Diagnóstico de Solapamientos:**
+
+Se identificaron productos con solapamientos innecesarios, como “Flex”, “Sport” y “Neuralgia”, que comparten ingredientes similares. Esto genera parálisis de decisión en el cliente.
+
+**Diagnóstico del Naming Actual:**
+
+El sistema de naming actual es inconsistente, con una mezcla de idiomas y estilos. No hay un patrón unificado.
+
+Se propone un sistema bilingüe controlado, con nombres en inglés y descripciones en español:
+
+![image.png](DAVIDA_ANÁLISIS-ESTRATÉGICO-DE-MARCA_02.webp)
+
+![image.png](DAVIDA_ANÁLISIS-ESTRATÉGICO-DE-MARCA_03.webp)
+
+![image.png](DAVIDA_ANÁLISIS-ESTRATÉGICO-DE-MARCA_04.webp)
+
+### **7. Estrategia de Comunicación y Ventas**
+
+**Enfoque de Comunicación:**
+
+La comunicación debe centrarse en los **resultados** y la **experiencia**, en lugar de los ingredientes.
+
+**Pilares de Contenido:**
+
+1. **Educación** (40%)
+2. **Experiencia y Resultado** (30%)
+3. **Contexto y Lifestyle** (20%)
+4. **Autoridad Médica** (10%)
+
+**Estrategia de Ventas:**
+
+Canales: WhatsApp, Instagram, TikTok y presencia en Partner Gym. Crear paquetes de sesiones para fomentar la recurrencia.
+
+---
+
+### **8. Lineamientos de Marca (Nivel Estratégico)**
+
+**Voz de Marca:**
+
+DAVIDA Healthy Sport es directa, motivadora y accesible, con un enfoque técnico pero cercano.
+
+**Reglas de Messaging:**
+
+1. **Resultado primero**, ingrediente después.
+2. **Especificidad**: usar números concretos.
+3. **No prometer cura ni diagnóstico**.
+
+**Identidad Visual:**
+
+Usar fotografía real y mantener una estética limpia y moderna para reflejar la naturaleza de la marca.
+
+---
+
+### **9. Estrategia de Diferenciación**
+
+**Ángulo Central:**
+
+La experiencia integrada de sueroterapia, oxigenación y respaldo médico es el diferenciador más fuerte de DAVIDA.
+
+**Estrategias de Diferenciación:**
+
+1. Integración con Partner Gym.
+2. Creación de un programa de preoxigenación deportiva.
+3. Base de datos y personalización de servicios.
+
+---
+
+### **10. Hoja de Ruta de Implementación**
+
+**Horizonte 1 (Mes 1–2):**
+
+1. Decisión arquitectónica (separación de unidades).
+2. Simplificación del portafolio.
+3. Rediseño del catálogo digital.
+
+**Horizonte 2 (Mes 2–4):**
+
+1. Sesión fotográfica profesional.
+2. Desarrollo de identidad visual actualizada.
+3. Lanzamiento en redes sociales.
+
+**Horizonte 3 (Mes 4–8):**
+
+1. Lanzamiento del programa de preoxigenación deportiva.
+2. Implementación del sistema de registro de clientes.
+3. Colaboraciones con entrenadores locales.

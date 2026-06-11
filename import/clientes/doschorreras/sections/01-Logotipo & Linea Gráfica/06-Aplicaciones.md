@@ -1,0 +1,71 @@
+# 06-Aplicaciones
+
+El concepto se construye desde una estética donde lo órganico y lo contemporáneo dialogan a través de contrastes entre lo rústico y lo refinado. La gráfica se apoya en tonos tierra, texturas naturales y una tipografía sólida serif que transmite calidez, tradición y carácter.
+
+El uso de patrones inspirados en troncos de árboles simbolizan el territorio, creando un sistema visual flexible, aporta dinamismo y coherencia en sus aplicaciones. Se busca crear la idea de conexión con la naturaleza, representando un espacio que resguarda y proyecta lo local.
+
+Como resultado, Dos Chorreras se pisiciona como una marca auténtica y actual, que moderniza su identidad sin perder su esencia, logrando un equilibrio entre tradición, historia y proyección nacional.
+
+## Packaging
+
+El sistema de packaging de Dos Chorreras se construye a partir de un lenguaje visual claro, donde la gráfica, el color y la tipografía trabajan de forma conjunta para generar una identidad reconocible en todos sus formatos. La propuesta mantiene un equilibrio entre lo rústico y lo contemporáneo, logrando una estética que se siente cercana, pero con carácter.
+
+ La  paleta de colores se compone de cuatro tonos que definen el sistema. Los tonos café, en sus variaciones más oscuras como La Tostadora y Café Andrés, aportan profundidad y conexión con el origen del producto. El tono amarillo, Calidez Dos Chorreras, introduce contraste y visibilidad, funcionando como un punto de atención dentro de las piezas. El tono intermedio, Núcleo Uku, actúa como un balance entre ambos, suavizando la transición y manteniendo la armonía del conjunto.
+
+El uso de estos colores permite generar combinaciones consistentes que refuerzan la identidad sin necesidad de cambiar el lenguaje gráfico.
+
+### Piezas complementarias
+
+Los individuales usan la paleta y la gráfica para construir un entorno coherente en el punto de consumo. Los stickers funcionan como extensiones flexibles del sistema, permitiendo aplicar la identidad en distintos momentos y superficies sin perder consistencia.
+
+![X.jpg](DOS-CHORRERAS_APLICACIONES_01.webp)
+
+![D.jpg](DOS-CHORRERAS_APLICACIONES_02.webp)
+
+### Vasos
+
+En los vasos, el sistema se vuelve más visible y dinámico. El uso del amarillo permite que la marca destaque fácilmente, mientras que los tonos más oscuros mantienen la coherencia con el resto de aplicaciones. Esto hace que el vaso no solo funcione como contenedor, sino también como un elemento que expone la marca en movimiento.
+
+![XZ.jpg](DOS-CHORRERAS_APLICACIONES_03.webp)
+
+![S.jpg](DOS-CHORRERAS_APLICACIONES_04.webp)
+
+![V.jpg](DOS-CHORRERAS_APLICACIONES_05.webp)
+
+### Cajas y Fundas
+
+Las cajas y fundas trabajan principalmente con los tonos más oscuros, lo que les da presencia y una sensación más sólida. Sobre esta base, el color más cálido aparece como contraste, generando una composición que resalta sin perder sobriedad. La tipografía se integra de forma protagónica, aportando escala y ritmo dentro de cada pieza.
+
+![G.jpg](DOS-CHORRERAS_APLICACIONES_06.webp)
+
+![DOS_MANUAL_MARCA_NOTIONC.jpg](DOS-CHORRERAS_APLICACIONES_07.webp)
+
+![GJ.jpg](DOS-CHORRERAS_APLICACIONES_08.webp)
+
+![A.jpg](DOS-CHORRERAS_APLICACIONES_09.webp)
+
+![M.jpg](DOS-CHORRERAS_APLICACIONES_10.webp)
+
+El sistema se sostiene en la relación entre color, tipografía y composición. Cada elemento, sin importar su formato, mantiene una misma lógica visual que permite que la marca se perciba unificada, clara y con una personalidad definida.
+
+## Otras Aplicaciones
+
+Identidad basada en contención y armonía, con una paleta cálida y natural de baja saturación y una combinación tipográfica que equilibra elegancia editorial y claridad contemporánea, generando una experiencia silenciosa y coherente.
+
+### Cartel de Bienvenida
+
+Uso de texturas de madera como narrativa principal, tipografía serif para una bienvenida sobria y composición centrada que prioriza calma e integración sobre visibilidad.
+
+![F.jpg](DOS-CHORRERAS_APLICACIONES_11.webp)
+
+### Señalética
+
+Lenguaje más íntimo y reducido, se usa tonos de color más profundos, el uso de formas circulares elimina direccionalidad y hace que cada pieza funcione como un punto de pausa al igual que un indicador, funcionando como señales sutiles que acompañan el recorrido.
+
+![L.jpg](DOS-CHORRERAS_APLICACIONES_12.webp)
+
+### Taza
+
+Elemento icónico que concentra la identidad en el color mostaza y que puede funcionar como souvenir dentro de la tienda de regalos de la hostería, permitiendo que la experiencia se extienda más allá del lugar a través de un objeto cotidiano que conserva su carga emocional y estética.
+
+![Z.jpg](DOS-CHORRERAS_APLICACIONES_13.webp)

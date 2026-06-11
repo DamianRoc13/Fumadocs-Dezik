@@ -1,0 +1,11 @@
+# 05 - Elementos Gráficos
+
+Los elementos gráficos de **TRUKÖ** forman parte esencial de su sistema visual y refuerzan la personalidad dinámica, flexible y expresiva de la marca. Están compuestos por cuatro figuras principales, desarrolladas a partir de formas simples y geométricas que aportan movimiento, frescura y recordación.
+
+Estas figuras pueden aplicarse de manera independiente como recursos decorativos o combinarse con el isotipo y el logotipo para crear composiciones más completas. Su versatilidad permite utilizarlas sobre diferentes soportes.
+
+![TRU_BRANDGUIDELINES-11.jpg](TRUKO_ELEMENTOS-GRÁFICOS_01.webp)
+
+![TRU_BRANDGUIDELINES_CROMATICA copy 16.jpg](TRUKO_ELEMENTOS-GRÁFICOS_02.webp)
+
+Cada elemento puede adaptarse a distintas combinaciones cromáticas dentro de la paleta oficial de la marca, permitiendo así generar variedad visual sin perder consistencia. En conjunto, estos elementos construyen un lenguaje gráfico propio para la marca, aportando un toque moderno, juvenil y divertido.

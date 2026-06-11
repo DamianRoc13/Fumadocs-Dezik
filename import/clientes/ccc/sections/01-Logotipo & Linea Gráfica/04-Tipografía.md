@@ -1,0 +1,11 @@
+# 04-Tipografía
+
+**Silka** es una tipografía sans serif de carácter geométrico y contemporáneo que aporta claridad y coherencia a la identidad de la **Cámara de Comercio**. Su diseño se basa en formas simples, curvas suaves y proporciones equilibradas, lo que le otorga una apariencia limpia, moderna y altamente legible.
+
+Su amplia familia tipográfica, que abarca desde pesos ligeros hasta estilos más robustos, permite construir jerarquías visuales claras tanto en títulos como en cuerpos de texto. Esta versatilidad facilita su aplicación en distintos formatos, manteniendo siempre orden y consistencia en la comunicación; proyecta una identidad sólida, funcional, alineada con el carácter institucional y dinámico de la marca.
+
+![CCC_GUIDELINES.jpg](CAMARA-DE-COMERCIO_TIPOGRAFÍA_01.webp)
+
+![CCC_GUIDELINES_BLANK-11.jpg](CAMARA-DE-COMERCIO_TIPOGRAFÍA_02.webp)
+
+[FONT.zip](FONT.zip)

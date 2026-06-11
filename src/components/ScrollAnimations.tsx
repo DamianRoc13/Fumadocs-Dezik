@@ -26,10 +26,11 @@ export default function ScrollAnimations() {
 
     const checkElements = () => {
       const windowHeight = window.innerHeight
+      const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2
 
       elements.forEach(element => {
         const rect = element.getBoundingClientRect()
-        const isInViewport = rect.top < windowHeight * 0.85
+        const isInViewport = rect.top < windowHeight * 0.85 || atBottom
 
         if (isInViewport && !element.classList.contains('visible')) {
           element.classList.add('visible')
