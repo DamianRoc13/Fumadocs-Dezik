@@ -1,0 +1,13 @@
+# 06 - Web y Redes Sociales
+
+## Página Web
+
+![BRI_BRANDGUIDELINES-16.jpg](BRIGARI_WEB-Y-REDES-SOCIALES_01.webp)
+
+## Post
+
+![BRI_BRANDGUIDELINES.jpg](BRIGARI_WEB-Y-REDES-SOCIALES_02.webp)
+
+## Post Tipo Carrusel
+
+![BRI_BRANDGUIDELINES-15.jpg](BRIGARI_WEB-Y-REDES-SOCIALES_03.webp)

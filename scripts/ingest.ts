@@ -153,14 +153,11 @@ async function importFromSections() {
 
       // Procesar rutas de imágenes - convertir a rutas públicas del cliente
       let content = parsed.content
-      // Reemplazar rutas de imágenes relativas con rutas de /public/{cliente}/
-      // Busca patrones como: ![alt](../folder/image.png) o ![alt](folder/image.png)
-      content = content.replace(/!\[([^\]]*)\]\((?!https?|\/)[^)]*\/([^/)]+)\)/g, (_, alt, fileName) => {
-        const resolved = resolveAssetFileName(fileName)
-        return `![${alt}](/${TARGET_CLIENT}/${resolved})`
-      })
-      // También maneja rutas sin carpeta padre
-      content = content.replace(/!\[([^\]]*)\]\(([^/)]+\.[a-z0-9]+)\)/gi, (_, alt, fileName) => {
+      // Reemplazar rutas de imágenes relativas o con nombres inusuales (como paréntesis)
+      const imageRegex = /!\[([^\]]*)\]\((?!https?:\/\/|\/)(.+?\.(?:jpg|jpeg|png|webp|gif|svg))\)/gi
+      content = content.replace(imageRegex, (_, alt, fullPath) => {
+        // fullPath puede tener carpetas, extraer solo el nombre de archivo
+        const fileName = path.basename(decodeURIComponent(fullPath)) // decoificar por si hay %20
         const resolved = resolveAssetFileName(fileName)
         return `![${alt}](/${TARGET_CLIENT}/${resolved})`
       })
