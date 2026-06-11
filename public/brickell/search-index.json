@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Logo",
+    "href": "/01-linea-grafica/01-logo",
+    "content": "Logo",
+    "section": "01-linea-grafica"
+  },
+  {
+    "title": "Cromática",
+    "href": "/01-linea-grafica/02-cromatica",
+    "content": "Cromática",
+    "section": "01-linea-grafica"
+  },
+  {
+    "title": "Tipografía",
+    "href": "/01-linea-grafica/03-tipografia",
+    "content": "Tipografía",
+    "section": "01-linea-grafica"
+  },
+  {
+    "title": "Elementos Gráficos",
+    "href": "/01-linea-grafica/04-elementos-graficos",
+    "content": "Elementos Gráficos",
+    "section": "01-linea-grafica"
+  },
+  {
+    "title": "Aplicaciones",
+    "href": "/01-linea-grafica/05-aplicaciones",
+    "content": "Aplicaciones",
+    "section": "01-linea-grafica"
+  },
+  {
+    "title": "Logo",
+    "href": "/01-linea-grafica",
+    "content": "Logo",
+    "section": "01-linea-grafica"
+  }
+]

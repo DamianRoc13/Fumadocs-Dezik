@@ -475,10 +475,10 @@ async function buildSearchIndex(routeMap: RouteMap) {
     })
   }
 
-  const output = path.join(PUBLIC_DIR, 'search-index.json')
-  await fs.ensureDir(PUBLIC_DIR)
+  const output = path.join(PUBLIC_DIR, TARGET_CLIENT, 'search-index.json')
+  await fs.ensureDir(path.join(PUBLIC_DIR, TARGET_CLIENT))
   await fs.writeJson(output, entries, { spaces: 2 })
-  console.log('• Índice de búsqueda → public/search-index.json')
+  console.log(`• Índice de búsqueda → public/${TARGET_CLIENT}/search-index.json`)
 }
 
 async function copyPublicAssets() {

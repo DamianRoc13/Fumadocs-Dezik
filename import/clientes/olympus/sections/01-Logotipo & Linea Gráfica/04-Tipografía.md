@@ -1,0 +1,27 @@
+# 04 - Tipografía
+
+## Tipografía Principal
+
+**Atlas Grotesk** se establece como la tipografía principal de **OLYMPUS**, aportando una estética actual, precisa y altamente funcional. Su diseño sans serif combina claridad, equilibrio y sofisticación, cualidades que reflejan los valores de disciplina, rendimiento y excelencia presentes en la marca.
+
+La construcción de sus caracteres, basada en proporciones limpias y formas cuidadosamente refinadas, permite una lectura clara en diferentes escalas y soportes. Su amplia variedad de pesos facilita la creación de jerarquías visuales sólidas, aportando flexibilidad al sistema gráfico sin perder coherencia ni personalidad.
+
+Dentro de la identidad de **OLYMPUS**, Atlas Grotesk comunica modernidad y confianza, consolidándose como un elemento fundamental para proyectar una imagen premium, dinámica y orientada al alto rendimiento.
+
+![OLY_BRANDGUIDELINES_PAGE-27.jpg](OLYMPUS_TIPOGRAFÍA_01.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-28.jpg](OLYMPUS_TIPOGRAFÍA_02.webp)
+
+## Tipografía Secundaria
+
+**GC-16** complementa el sistema tipográfico de **OLYMPUS** con una propuesta de carácter más expresivo y distintivo que mezcla lo clásico con lo moderno. Su construcción geométrica y sus detalles formales aportan personalidad visual, permitiendo generar contrastes estratégicos dentro de la comunicación de marca.
+
+Su uso está orientado principalmente a aplicaciones destacadas donde se busca reforzar su carácter diferencial y su amplia versatilidad. Gracias a su presencia visual, funciona como un elemento que aporta dinamismo y riqueza al sistema sin competir con la legibilidad de la tipografía principal.
+
+![OLY_BRANDGUIDELINES_PAGE-30.jpg](OLYMPUS_TIPOGRAFÍA_03.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-31.jpg](OLYMPUS_TIPOGRAFÍA_04.webp)
+
+La combinación entre **Atlas Grotesk** y **GC-16** construye un sistema tipográfico equilibrado, donde funcionalidad y expresión conviven para reforzar una identidad visual sólida, versátil y coherente con el universo conceptual de **OLYMPUS**.
+
+[FONTS.zip](FONTS.zip)

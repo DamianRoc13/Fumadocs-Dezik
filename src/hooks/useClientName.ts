@@ -10,6 +10,12 @@ export function useClientName(): string {
 
     let name = 'default'
 
+    const subdomainToClient: Record<string, string> = {
+      'partner': 'partner-gym',
+      'aurora': 'aurora',
+      'sushicat': 'sushicat'
+    }
+
     // Detectar subdominio consistente con middleware
     if (hostname === 'localhost' || hostname.startsWith('127.0.0.1') || hostname.startsWith('192.168')) {
       // En desarrollo, intentar detectar del pathname
@@ -21,7 +27,8 @@ export function useClientName(): string {
     } else if (parts.length >= 3) {
       // Producción: extraer subdominio (primera parte)
       // partnergym.helloprisma.com → partnergym
-      name = parts[0]
+      const subdomain = parts[0]
+      name = subdomainToClient[subdomain] || subdomain
     }
 
     setClientName(name)

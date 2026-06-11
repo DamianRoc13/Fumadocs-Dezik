@@ -1,0 +1,9 @@
+{
+  "projectName": "Strata",
+  "domain": "strata.helloprisma.com",
+  "secondaryColors": {
+    "highlight": "#D6F800",
+    "accent": "#EFEFEF",
+    "hover": "#EFEFEF"
+  }
+}

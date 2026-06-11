@@ -1,0 +1,13 @@
+# 06 - Estilo Fotográfico
+
+El estilo fotográfico de **OLYMPUS** se centra en destacar la relación entre el cuerpo, el movimiento y la indumentaria deportiva. Predominan los planos detalle y primeros planos que permiten apreciar la calidad, textura y construcción de las prendas, convirtiéndolas en el principal punto de atención dentro de cada composición.
+
+Las imágenes buscan capturar momentos de acción y dinamismo a través de poses naturales, gestos de esfuerzo y movimientos que transmiten energía, disciplina y rendimiento. La fotografía se apoya en encuadres limpios que refuerzan el posicionamiento de calidad de la marca.
+
+En conjunto, este lenguaje visual proyecta una identidad auténtica y aspiracional, donde el producto y la experiencia deportiva se integran para comunicar fuerza, evolución y estilo.
+
+![OLY_BRANDGUIDELINES_PAGE-34.jpg](OLYMPUS_ESTILO-FOTOGRÁFICO_01.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-36.jpg](OLYMPUS_ESTILO-FOTOGRÁFICO_02.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-35.jpg](OLYMPUS_ESTILO-FOTOGRÁFICO_03.webp)

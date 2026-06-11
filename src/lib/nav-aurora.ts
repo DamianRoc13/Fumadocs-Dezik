@@ -1,6 +1,6 @@
 export const nav = [
   {
-    "title": "Introducción",
+    "title": "Introducción",
     "href": "/01-introduccion",
     "items": [
       {
@@ -44,7 +44,7 @@ export const nav = [
     ]
   },
   {
-    "title": "Linea Gráfica",
+    "title": "Linea Gráfica",
     "href": "/03-linea-grafica",
     "items": [
       {

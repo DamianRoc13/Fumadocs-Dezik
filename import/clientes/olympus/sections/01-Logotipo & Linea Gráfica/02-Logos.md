@@ -1,0 +1,61 @@
+# 02 - Logos
+
+La identidad de **OLYMPUS** se construye a partir de una visión que fusiona la grandeza de la herencia clásica griega con la energía y el dinamismo del deporte contemporáneo. Inspirada en el Monte Olimpo, símbolo de excelencia, superación y aspiración constante, la marca desarrolla un lenguaje visual elegante y preciso que transmite disciplina, fortaleza y determinación. Su sistema gráfico, de líneas limpias y proporciones cuidadosamente equilibradas, proyecta una estética premium capaz de adaptarse con flexibilidad a distintos contextos sin perder coherencia ni personalidad.
+
+Cada elemento de la identidad ha sido concebido para reflejar el movimiento como una forma de crecimiento, representando a quienes buscan alcanzar nuevas metas y desafiar sus propios límites. El resultado es una marca sólida y sofisticada que encuentra el equilibrio entre tradición y modernidad, convirtiendo los valores del alto rendimiento en una expresión visual clara, memorable y atemporal.
+
+## Construcción Geométrica
+
+Se estructura  e inspira a partir de una retícula basada en la proporción áurea, tomando como referencia las relaciones armónicas presentes en la arquitectura clásica griega. Este sistema geométrico garantiza equilibrio, coherencia visual y precisión formal, estableciendo una base sólida para todo el sistema de identidad.
+
+![OLY_BRANDGUIDELINES_PAGE-01.jpg](OLYMPUS_LOGOS_01.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-02.jpg](OLYMPUS_LOGOS_02.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-03.jpg](OLYMPUS_LOGOS_03.webp)
+
+## Logotipo
+
+El logotipo combina una construcción tipográfica estilizada con proporciones cuidadosamente controladas que transmiten elegancia, disciplina y movimiento. Sus formas verticales y condensadas generan una sensación de ascenso y rendimiento, proyectando una personalidad premium, contemporánea y altamente reconocible.
+
+![OLY_BRANDGUIDELINES_PAGE-07.jpg](OLYMPUS_LOGOS_04.webp)
+
+## Isotipo
+
+El isotipo surge de la síntesis geométrica de un templo griego, reinterpretado mediante formas simples y esenciales. Esta reducción formal concentra la esencia conceptual de la marca en un símbolo sólido, equilibrado y fácilmente identificable, capaz de funcionar de manera autónoma en distintos contextos de aplicación.
+
+![OLY_BRANDGUIDELINES_PAGE-10.jpg](OLYMPUS_LOGOS_05.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-09.jpg](OLYMPUS_LOGOS_06.webp)
+
+## Submarca - AURA
+
+**AURA** es la línea femenina de **OLYMPUS**, desarrollada para conectar con una estética más elegante, ligera y sofisticada. Su construcción tipográfica combina trazos estilizados y formas curvas que aportan fluidez, equilibrio y dinamismo, manteniendo la coherencia visual con la marca principal.
+
+Como elemento complementario, incorpora un isotipo basado en la síntesis gráfica de una paloma, un símbolo estrechamente vinculado a la feminidad, la belleza y la armonía dentro de la mitología griega. Asociada a divinidades como Afrodita, la paloma representa valores de gracia, equilibrio y sensibilidad, conceptos que conectan con la esencia de esta línea. Su síntesis geométrica permite trasladar estos atributos a un lenguaje visual contemporáneo, elegante y coherente con el universo conceptual de **OLYMPUS**. , construido mediante formas simples y simétricas que favorecen su reconocimiento y versatilidad en diferentes aplicaciones.
+
+![OLY_BRANDGUIDELINES_PAGE-15.jpg](OLYMPUS_LOGOS_07.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-16.jpg](OLYMPUS_LOGOS_08.webp)
+
+![OLY_BRANDGUIDELINES-18.jpg](OLYMPUS_LOGOS_09.webp)
+
+En conjunto, **AURA** amplía el sistema de identidad de la empresa con una propuesta visual exclusiva para mujeres, conservando los valores de movimiento, rendimiento y diseño moderno que caracterizan a la marca.
+
+## Variaciones
+
+El sistema visual contempla distintas configuraciones del logotipo e isotipo para adaptarse a diversos formatos y soportes. Estas versiones mantienen una misma lógica constructiva y garantizan consistencia, legibilidad y reconocimiento en aplicaciones institucionales, digitales y deportivas, aportando flexibilidad sin comprometer la identidad de la marca.
+
+![OLY_BRANDGUIDELINES_PAGE-13.jpg](OLYMPUS_LOGOS_10.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-12.jpg](OLYMPUS_LOGOS_11.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-11.jpg](OLYMPUS_LOGOS_12.webp)
+
+![OLY_BRANDGUIDELINES-19.jpg](OLYMPUS_LOGOS_13.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-08.jpg](OLYMPUS_LOGOS_14.webp)
+
+![OLY_BRANDGUIDELINES_PAGE-17.jpg](OLYMPUS_LOGOS_15.webp)
+
+La relación entre logotipo, isotipo y sus distintas variaciones garantiza coherencia, reconocimiento y flexibilidad en diferentes aplicaciones. Por su parte, **AURA** amplía el universo de la marca con una propuesta femenina que conserva los principios visuales de **OLYMPUS** mientras desarrolla una personalidad propia. En conjunto, estos elementos conforman una identidad selectiva, dinámica y consistente, diseñada para proyectar excelencia, movimiento y evolución constante.

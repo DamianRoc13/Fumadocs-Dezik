@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useClientName } from "@/hooks/useClientName";
 
 type SearchEntry = {
   title: string;
@@ -15,6 +16,7 @@ const MIN_QUERY_LENGTH = 2;
 
 export default function Search() {
   const router = useRouter();
+  const clientName = useClientName();
   const [query, setQuery] = useState("");
   const [entries, setEntries] = useState<SearchEntry[]>([]);
   const [isOpen, setIsOpen] = useState(false);
@@ -24,8 +26,10 @@ export default function Search() {
     let cancelled = false;
 
     async function loadIndex() {
+      if (clientName === "default") return;
+      
       try {
-        const response = await fetch("/search-index.json");
+        const response = await fetch(`/${clientName}/search-index.json`);
         if (!response.ok) return;
         const data: SearchEntry[] = await response.json();
         if (!cancelled) setEntries(data);
@@ -39,7 +43,7 @@ export default function Search() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [clientName]);
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
