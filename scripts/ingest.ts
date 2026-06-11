@@ -154,12 +154,19 @@ async function importFromSections() {
       // Procesar rutas de imágenes - convertir a rutas públicas del cliente
       let content = parsed.content
       // Reemplazar rutas de imágenes relativas o con nombres inusuales (como paréntesis)
-      const imageRegex = /!\[([^\]]*)\]\((?!https?:\/\/|\/)(.+?\.(?:jpg|jpeg|png|webp|gif|svg))\)/gi
+      const imageRegex = /!\[(.*?)\]\((?!https?:\/\/|\/)(.+?\.(?:jpg|jpeg|png|webp|gif|svg))\)/gi
       content = content.replace(imageRegex, (_, alt, fullPath) => {
         // fullPath puede tener carpetas, extraer solo el nombre de archivo
         const fileName = path.basename(decodeURIComponent(fullPath)) // decoificar por si hay %20
         const resolved = resolveAssetFileName(fileName)
         return `![${alt}](/${TARGET_CLIENT}/${resolved})`
+      })
+
+      // Reemplazar enlaces relativos a archivos .zip (ej. fuentes descargables) por rutas públicas del cliente
+      const zipRegex = /(?<!!)\[([^\]]*)\]\((?!https?:\/\/|\/)([^)]+\.zip)\)/gi
+      content = content.replace(zipRegex, (_, text, fullPath) => {
+        const fileName = path.basename(decodeURIComponent(fullPath))
+        return `[${text}](/${TARGET_CLIENT}/${fileName})`
       })
 
       // Limpiar el H1 interno si tiene numeración (ej. "# 01-Logo" -> "# Logo")

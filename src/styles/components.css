@@ -327,6 +327,19 @@ button:focus-visible,
   width: 100%;
 }
 
+.zip-download-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--color-text-muted);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.zip-download-link:hover {
+  text-decoration: underline;
+}
+
 .sidebar-footer {
   margin-top: auto;
   padding: 15px;
