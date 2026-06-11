@@ -1,0 +1,67 @@
+# 06-Aplicaciones
+
+Como parte del desarrollo de la identidad de **KAIRAL**, se realizaron diversos mockups que exploran la aplicación del branding en múltiples contextos y soportes, permitiendo visualizar su funcionamiento en situaciones reales. Estas propuestas abarcan desde indumentaria y señalética hasta papelería y elementos dentro del punto de venta, evidenciando cómo la marca se adapta sin perder coherencia ni fuerza visual.
+
+Su identidad demuestra una alta capacidad de adaptación, manteniendo legibilidad, reconocimiento y carácter en cada aplicación. La implementación consistente del logotipo, la cromática, la tipografía y los recursos gráficos dentro de estas aplicaciones refuerza la cohesión del sistema visual, asegurando que cada pieza comunique los mismos valores; autenticidad, calidad e intensidad. Esta flexibilidad controlada permite que la marca se proyecte de manera uniforme en distintos escenarios, consolidando una identidad robusta, funcional y preparada para interactuar con el usuario en diversos puntos de contacto.
+
+# Packaging
+
+## Porta Vasos
+
+![Mesa de trabajo 17.jpg](KAIRAL_APLICACIONES_01.webp)
+
+## Bolsas
+
+![Mesa de trabajo 18.jpg](KAIRAL_APLICACIONES_02.webp)
+
+# Uniformes
+
+## Camisetas Polo
+
+![Mesa de trabajo 32.jpg](KAIRAL_APLICACIONES_03.webp)
+
+![Mesa de trabajo 31.jpg](KAIRAL_APLICACIONES_04.webp)
+
+## Filipina de Chef
+
+![Mesa de trabajo 36.jpg](KAIRAL_APLICACIONES_05.webp)
+
+## Delantal de Cocina
+
+![Mesa de trabajo 25.jpg](KAIRAL_APLICACIONES_06.webp)
+
+# Otras Aplicaciones
+
+## Letrero Exterior
+
+![KAI_GUIDELINES.jpg](KAIRAL_APLICACIONES_07.webp)
+
+## Letrero Entrada Restaurante
+
+![KAI_GUIDELINES.jpg](KAIRAL_APLICACIONES_08.webp)
+
+## Pines
+
+![Mesa de trabajo 35.jpg](KAIRAL_APLICACIONES_09.webp)
+
+# Papelería
+
+## Menú Escaneable
+
+![Mesa de trabajo 26.jpg](KAIRAL_APLICACIONES_10.webp)
+
+## Menú Físico
+
+![Mesa de trabajo 16.jpg](KAIRAL_APLICACIONES_11.webp)
+
+## Carteles Decorativos
+
+![KAI_GUIDELINES.jpg](KAIRAL_APLICACIONES_12.webp)
+
+## Tarjetas de Presentación
+
+![KAI_GUIDELINES.jpg](KAIRAL_APLICACIONES_13.webp)
+
+## Letrero Informativo Exterior
+
+![Mesa de trabajo 23.jpg](KAIRAL_APLICACIONES_14.webp)
