@@ -26,10 +26,6 @@ export const nav = [
       {
         "title": "Empaques",
         "href": "/01-logotipo-linea-grafica/06-empaques"
-      },
-      {
-        "title": "Redes",
-        "href": "/01-logotipo-linea-grafica/07-redes"
       }
     ]
   }
