@@ -494,6 +494,8 @@ async function copyPublicAssets() {
     return
   }
 
+  // Limpiar destino antes de copiar para evitar assets huérfanos de una ingesta anterior
+  await fs.remove(CLIENT_PUBLIC_DEST)
   await fs.ensureDir(CLIENT_PUBLIC_DEST)
   await fs.copy(CLIENT_PUBLIC_SRC, CLIENT_PUBLIC_DEST, { overwrite: true })
 
