@@ -2,14 +2,14 @@
 
 El sistema iconográfico de Mayu funciona como una familia con reglas claras: trazo uniforme, geometría redondeada, fondo negro, círculo contenedor en todos los casos. Esa consistencia hace que cualquier ícono nuevo que se añada al sistema sea reconocible como de Mayu antes de que nadie lo diga. Los íconos cubren el espectro completo de la marca: la persona como punto de partida, la ciencia como estructura, la planta como origen, el cerebro como rigor, la botánica como materia prima. Juntos son un vocabulario visual que puede crecer sin perder coherencia.
 
-![LINEA__PAGE-40.png](/MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_01.webp)
+![LINEA__PAGE-40.png](MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_01.webp)
 
-![LINEA__PAGE-41.png](/MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_02.webp)
+![LINEA__PAGE-41.png](MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_02.webp)
 
-![LINEA__PAGE-42.png](/MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_03.webp)
+![LINEA__PAGE-42.png](MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_03.webp)
 
 ## Texturas & Patrones
 
-![LINEA__PAGE-38.png](/MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_04.webp)
+![LINEA__PAGE-38.png](MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_04.webp)
 
-![LINEA__PAGE-39.png](/MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_05.webp)
+![LINEA__PAGE-39.png](MAYU_ICONOGRAFIA-PATRONES-TEXTURAS_05.webp)

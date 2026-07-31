@@ -8,7 +8,7 @@ El sitio de Mayu registra 2,100 usuarios activos y 1,500 usuarios mensuales. Qui
 
 El título actual del sitio es *"CBD Ecuador Cannabis medicinal"*, lo que requiere un cambio inmediato para alinearse con el nuevo posicionamiento.
 
-![ESTRATEGIA_43.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_01.webp)
+![ESTRATEGIA_43.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_01.webp)
 
 ---
 
@@ -20,7 +20,7 @@ Las páginas con mayor tráfico: Home (29.3%), Productos (25%), Farmacia Fitoter
 
 Las fuentes de tráfico: 53% orgánica, 33% directa, 7% social orgánica, y menos del 1% cada una entre búsqueda pagada, social pagada y derivación.
 
-![ESTRATEGIA_42.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_02.webp)
+![ESTRATEGIA_42.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_02.webp)
 
 ---
 
@@ -28,7 +28,7 @@ Las fuentes de tráfico: 53% orgánica, 33% directa, 7% social orgánica, y meno
 
 Google My Business es el canal más fuerte y el principal generador de confianza (95% de rendimiento). Instagram muestra buen desempeño y generación de interés (65%). Web y Facebook presentan desempeño medio y baja conversión (50% y 55% respectivamente). El SEO es el canal con mayor oportunidad de crecimiento, actualmente al 30%.
 
-![ESTRATEGIA_41.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_03.webp)
+![ESTRATEGIA_41.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_03.webp)
 
 ---
 
@@ -40,7 +40,7 @@ La oportunidad está en crear contenido orientado a problemas reales: ansiedad, 
 
 **Hipótesis:** Si Mayu reorienta contenido hacia queries informativas de salud natural, podría triplicar el tráfico orgánico en 12 meses.
 
-![ESTRATEGIA_44.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_04.webp)
+![ESTRATEGIA_44.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_04.webp)
 
 ---
 
@@ -48,7 +48,7 @@ La oportunidad está en crear contenido orientado a problemas reales: ansiedad, 
 
 Los espacios disponibles que ningún competidor ocupa: "magnesio beneficios", "aceites esenciales terapéuticos", "alternativas naturales al ibuprofeno", "fitoterapia Ecuador", "medicina natural Quito".
 
-![ESTRATEGIA_39.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_05.webp)
+![ESTRATEGIA_39.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_05.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Los espacios disponibles que ningún competidor ocupa: "magnesio beneficios", "a
 
 El canal más fuerte de Mayu. 5.0 estrellas con alto volumen de reseñas. Es el principal punto de validación para nuevos clientes.
 
-![ESTRATEGIA_45.png](/MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_06.webp)
+![ESTRATEGIA_45.png](MAYU_BUSQUEDA-Y-COMPORTAMIENTO-WEB_06.webp)
 
 **Oportunidades:** usar reseñas como contenido en otros canales y potenciar la prueba social de forma cruzada.
 

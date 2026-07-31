@@ -4,9 +4,9 @@
 
 ## Diagnóstico de Marca
 
-![ESTRATEGIA_58.png](/MAYU_PERCEPCION-GENERAL_01.webp)
+![ESTRATEGIA_58.png](MAYU_PERCEPCION-GENERAL_01.webp)
 
-![ESTRATEGIA_57.png](/MAYU_PERCEPCION-GENERAL_02.webp)
+![ESTRATEGIA_57.png](MAYU_PERCEPCION-GENERAL_02.webp)
 
 ---
 
@@ -14,13 +14,13 @@
 
 Los temas que domina la conversación alrededor de Mayu: Bienestar Propósito, Protocolos de Fitoterapia, Aceites Esenciales, Medicina Natural, Natural Consciente, Esenciales Terapéuticos.
 
-![ESTRATEGIA_59.png](/MAYU_PERCEPCION-GENERAL_03.webp)
+![ESTRATEGIA_59.png](MAYU_PERCEPCION-GENERAL_03.webp)
 
 ---
 
 ## Análisis de Sentimiento de Marca
 
-![ESTRATEGIA_55.png](/MAYU_PERCEPCION-GENERAL_04.webp)
+![ESTRATEGIA_55.png](MAYU_PERCEPCION-GENERAL_04.webp)
 
 ---
 
@@ -28,13 +28,13 @@ Los temas que domina la conversación alrededor de Mayu: Bienestar Propósito, P
 
 Facebook tiene potencial como canal de comunidad; Instagram como canal de descubrimiento y tráfico.
 
-![ESTRATEGIA_60.png](/MAYU_PERCEPCION-GENERAL_05.webp)
+![ESTRATEGIA_60.png](MAYU_PERCEPCION-GENERAL_05.webp)
 
 ---
 
 ## Posibilidades de Comportamiento
 
-![ESTRATEGIA_56.png](/MAYU_PERCEPCION-GENERAL_06.webp)
+![ESTRATEGIA_56.png](MAYU_PERCEPCION-GENERAL_06.webp)
 
 ---
 
@@ -42,7 +42,7 @@ Facebook tiene potencial como canal de comunidad; Instagram como canal de descub
 
 El recorrido del paciente se estructura en cinco etapas, cada una con un mensaje clave:
 
-![ESTRATEGIA_54.png](/MAYU_PERCEPCION-GENERAL_07.webp)
+![ESTRATEGIA_54.png](MAYU_PERCEPCION-GENERAL_07.webp)
 
 | Etapa | Canales | Mensaje Clave |
 | --- | --- | --- |
@@ -162,4 +162,4 @@ Con un ticket promedio de $45 y un ciclo de producto de 1 a 1.5 meses, un ciclo 
 - **Data para Segmentación:** el comportamiento de compra permite personalizar recordatorios y ofertas por historial
 - **Programa de Referidos:** "Recomienda Mayu, ambos ganan"
 
-![ESTRATEGIA_61.png](/MAYU_PERCEPCION-GENERAL_08.webp)
+![ESTRATEGIA_61.png](MAYU_PERCEPCION-GENERAL_08.webp)

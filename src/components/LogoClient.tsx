@@ -24,7 +24,8 @@ export default function LogoClient() {
         'partner': 'partner-gym',
         'aurora': 'aurora',
         'sushicat': 'sushicat',
-        'brickell': 'brickell'
+        'brickell': 'brickell',
+        'mayufarmacia': 'mayu'
       }
       internalName = subdomainToFolder[subdomain] || subdomain
     } else if (hostname === 'localhost' || hostname.startsWith('127.0.0.1') || hostname.startsWith('192.168')) {
@@ -57,7 +58,8 @@ export default function LogoClient() {
         'partner': 'partner-gym',
         'aurora': 'aurora',
         'sushicat': 'sushicat',
-        'brickell': 'brickell'
+        'brickell': 'brickell',
+        'mayufarmacia': 'mayu'
       }
       internalName = subdomainToFolder[subdomain] || subdomain
     } else if (hostname === 'localhost' || hostname.startsWith('127.0.0.1') || hostname.startsWith('192.168')) {

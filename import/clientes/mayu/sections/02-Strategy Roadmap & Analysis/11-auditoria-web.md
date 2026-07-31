@@ -43,7 +43,7 @@ Estos puntos están destruyendo conversiones o reforzando activamente la percepc
 
 ## Sección HERO — estado actual
 
-![image.png](/MAYU_AUDITORIA-WEB_01.webp)
+![image.png](MAYU_AUDITORIA-WEB_01.webp)
 
 **①  El bloque de tienda empareja "CBD" con la categoría core**
 
@@ -65,7 +65,7 @@ La asesoría gratuita es el diferencial #1 de Mayu validado por encuesta (81% de
 
 ## Sección "Nuestras áreas" — estado actual
 
-![image.png](/MAYU_AUDITORIA-WEB_02.webp)
+![image.png](MAYU_AUDITORIA-WEB_02.webp)
 
 *Tres problemas adicionales en el bloque de servicios y CTA de contacto.*
 
@@ -89,7 +89,7 @@ Este es el único CTA de consulta visible en home. Los usuarios que llegan motiv
 
 ## Footer — estado actual
 
-![image.png](/MAYU_AUDITORIA-WEB_03.webp)
+![image.png](MAYU_AUDITORIA-WEB_03.webp)
 
 *2 detalles del footer que erosionan la percepción premium.*
 
@@ -115,7 +115,7 @@ Cambios que requieren rediseño parcial pero no rehacer el sitio completo. Resol
 
 ## Sección "Tienda" + EDCANAMED — estado actual
 
-![image.png](/MAYU_AUDITORIA-WEB_04.webp)
+![image.png](MAYU_AUDITORIA-WEB_04.webp)
 
 **①  Subtítulo "productos de CBD y Fórmulas magistrales" empareja categorías**
 
@@ -143,9 +143,9 @@ Las cajas de Days/Hours/Minutes/Seconds aparecen con guiones (—) sin contador 
 
 ## Testimonios y FAQs — estado actual
 
-![image.png](/MAYU_AUDITORIA-WEB_05.webp)
+![image.png](MAYU_AUDITORIA-WEB_05.webp)
 
-![image.png](/MAYU_AUDITORIA-WEB_06.webp)
+![image.png](MAYU_AUDITORIA-WEB_06.webp)
 
 *Dos secciones que refuerzan la asociación CBD que se busca eliminar.*
 

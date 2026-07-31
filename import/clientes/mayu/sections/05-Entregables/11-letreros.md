@@ -9,20 +9,20 @@ La propuesta contempla distintos formatos de letrero, como señalética perpendi
 
 Ideal para captar atención desde el paso peatonal y mejorar la identificación lateral del local.
 
-![image.png](/MAYU_LETREROS_01.webp)
+![image.png](MAYU_LETREROS_01.webp)
 
 **Letrero de pared:**
 
 Funciona como una aplicación compacta y elegante, adecuada para accesos o puntos específicos de señalización.
 
-![image.png](/MAYU_LETREROS_02.webp)
+![image.png](MAYU_LETREROS_02.webp)
 
 **Letrero frontal de fachada:**
 
 Es la aplicación principal de marca y la más visible, pensada para dar protagonismo al local y comunicar de forma clara su actividad.
 
-![image.png](/MAYU_LETREROS_03.webp)
+![image.png](MAYU_LETREROS_03.webp)
 
-![image.png](/MAYU_LETREROS_04.webp)
+![image.png](MAYU_LETREROS_04.webp)
 
 Estas propuestas de letreros permiten que Mayu proyecte una imagen exterior más visible, profesional y coherente, fortaleciendo el reconocimiento de marca desde la fachada.

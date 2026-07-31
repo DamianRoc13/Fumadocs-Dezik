@@ -1,8 +1,8 @@
 # Auditoría y evaluación de cada canal
 
-![ESTRATEGIA_5.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_01.webp)
+![ESTRATEGIA_5.png](MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_01.webp)
 
-![ESTRATEGIA_6.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_02.webp)
+![ESTRATEGIA_6.png](MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_02.webp)
 
 Cada canal se analiza bajo tres dimensiones: uso actual (qué hace hoy), efectividad (cómo rinde contra sus propios datos) y gaps/oportunidades (qué falta por activar).
 
@@ -69,7 +69,7 @@ Dependencia crítica de pauta: el 94.5% de visualizaciones son pagadas (297.5K d
 
 ## 2.4 Mensajería — Instagram DM + Email + WhatsApp
 
-![image.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_03.webp)
+![image.png](MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_03.webp)
 
 ### Uso actual
 

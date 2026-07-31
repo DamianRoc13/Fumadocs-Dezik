@@ -2,7 +2,7 @@
 
 ## Fase 1 - Quick Wins (corto plazo · meses 1–3)
 
-![ESTRATEGIA_18.png](/MAYU_HOJA-DE-RUTA-POR-FASES_01.webp)
+![ESTRATEGIA_18.png](MAYU_HOJA-DE-RUTA-POR-FASES_01.webp)
 
 **OBJETIVO DE FASE**
 
@@ -30,7 +30,7 @@ Cerrar brechas críticas que están destruyendo conversiones y reforzando la per
 
 ## Fase 2 - Optimización (mediano plazo · meses 4–7)
 
-![ESTRATEGIA_19.png](/MAYU_HOJA-DE-RUTA-POR-FASES_02.webp)
+![ESTRATEGIA_19.png](MAYU_HOJA-DE-RUTA-POR-FASES_02.webp)
 
 **OBJETIVO DE FASE**
 
@@ -48,7 +48,7 @@ Construir los activos digitales que capitalizan el tráfico existente y empiezan
 - Lanzar programa de referidos vinculado a las tarjetas de fidelización.
 - Crear contenido sistemático para el “Programa Médicos Mayu”: material de prescripción, portal B2B o newsletter dedicado.
     
-    ![ESTRATEGIA_17.png](/MAYU_HOJA-DE-RUTA-POR-FASES_03.webp)
+    ![ESTRATEGIA_17.png](MAYU_HOJA-DE-RUTA-POR-FASES_03.webp)
     
 - Optimizar paid media en Facebook: pasar de contenido orgánico duplicado a retargeting y lookalike audiences.
 - Publicar primeros contenidos de autoridad de doctores (artículos firmados, entrevistas, webinar educativo).
@@ -63,7 +63,7 @@ Construir los activos digitales que capitalizan el tráfico existente y empiezan
 
 ## Fase 3 - Escalabilidad (largo plazo · meses 8–12)
 
-![ESTRATEGIA_20.png](/MAYU_HOJA-DE-RUTA-POR-FASES_04.webp)
+![ESTRATEGIA_20.png](MAYU_HOJA-DE-RUTA-POR-FASES_04.webp)
 
 **OBJETIVO DE FASE**
 
@@ -83,4 +83,4 @@ Escalar lo que funciona, consolidar la autoridad de la marca y preparar la expan
 
 ### KPIs de fase
 
-![ESTRATEGIA_21.png](/MAYU_HOJA-DE-RUTA-POR-FASES_05.webp)
+![ESTRATEGIA_21.png](MAYU_HOJA-DE-RUTA-POR-FASES_05.webp)

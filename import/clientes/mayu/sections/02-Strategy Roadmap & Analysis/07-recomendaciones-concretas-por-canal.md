@@ -11,7 +11,7 @@
 
 ## 6.2 Instagram
 
-![ESTRATEGIA_13.png](/MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_01.webp)
+![ESTRATEGIA_13.png](MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_01.webp)
 
 - Actualizar bio: nombre, descriptor claro (“Farmacia Magistral Fitoterapéutica”), CTA (“Consulta gratis →”), enlace.
 - Reestructurar Highlights: Qué es Mayu, Cómo funciona, Fórmulas, Testimonios, Médicos, Educación.
@@ -30,7 +30,7 @@
 
 ## 6.4 Mensajería (DM + WhatsApp Business)
 
-![ESTRATEGIA_15.png](/MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_02.webp)
+![ESTRATEGIA_15.png](MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_02.webp)
 
 - Prioridad inmediata #1: implementar protocolo de respuesta estructurado. Persona responsable, cobertura de horario, tiempo máximo 2h, índice objetivo >95%.
 - Migrar a WhatsApp Business con catálogo de servicios, respuestas rápidas pre-configuradas y etiquetado de conversaciones (nuevo lead, en consulta, cliente activo, B2B).
@@ -41,7 +41,7 @@
 
 ## 6.5 SEO y contenido
 
-![ESTRATEGIA_14.png](/MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_03.webp)
+![ESTRATEGIA_14.png](MAYU_RECOMENDACIONES-CONCRETAS-POR-CANAL_03.webp)
 
 - Estrategia de contenido por intención de búsqueda: artículos de blog que respondan preguntas de salud concretas. Priorizar los 5 temas validados por la encuesta: sueño, ansiedad/estrés, energía/cansancio, dolor muscular/articular y digestión.
 - Frecuencia inicial recomendada: 2 artículos por mes. Escalar a 4/mes una vez establecido el flujo editorial.

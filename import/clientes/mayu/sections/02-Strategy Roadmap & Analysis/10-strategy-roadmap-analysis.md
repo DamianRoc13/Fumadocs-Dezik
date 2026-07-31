@@ -51,13 +51,13 @@ Cerrar esta brecha de percepción debe ser la prioridad número uno. Cualquier
 
 El siguiente gráfico muestra el nivel de autoridad y madurez de cada canal, evaluado en función de su desempeño actual, coherencia de comunicación y nivel de aprovechamiento:
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_01.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_01.webp)
 
 ## 3.1 Sitio Web
 
 El sitio web (mayuecuador.com) es uno de los principales puntos de contacto digital. Los datos de Google Analytics revelan un tráfico moderado de 790 usuarios activos en el período analizado, con un tiempo de interacción promedio de 58 segundos y 0.71 eventos por sesión — cifras que indican un bajo nivel de engagement y retención.
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_02.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_02.webp)
 
 **Hallazgo crítico:** El 53.6% del tráfico proviene de búsqueda orgánica, lo que confirma que el SEO tiene potencial como canal principal de captación. Sin embargo, el tráfico directo (33.2%) sugiere que una porción significativa de usuarios ya conoce la marca, y la web no está convirtiendo ese interés en acciones concretas.
 
@@ -80,7 +80,7 @@ Instagram es el canal social con mejor rendimiento de Mayu. Los datos del perí
 
 El crecimiento de +690.9% en clics al enlace y +117.9% en alcance son señales muy positivas que indican que el contenido está generando interés real. Sin embargo, el crecimiento neto de seguidores es casi plano (+0.3%), con 180 unfollows en el período — lo que sugiere que el contenido atrae pero no retiene.
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_03.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_03.webp)
 
 ## 3.3 Facebook
 
@@ -97,7 +97,7 @@ Facebook muestra una tendencia opuesta a Instagram, con caídas significativas 
 
 **Dependencia de paid media:** El 94.5% de las visualizaciones en Facebook provienen de anuncios (297.5K de 314.7K total), mientras que el alcance orgánico representa apenas el 5.5%. Esto significa que la presencia en Facebook es casi enteramente pagada y desaparecería sin inversión publicitaria.
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_04.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_04.webp)
 
 **Dato positivo:** Los clics en enlace crecieron +13.9%, lo que indica que las campañas pagadas están generando tráfico hacia la web. Sin embargo, si ese tráfico llega a una web que no convierte, la inversión se desperdicia.
 
@@ -105,7 +105,7 @@ Facebook muestra una tendencia opuesta a Instagram, con caídas significativas 
 
 El canal de mensajería de Instagram muestra un crecimiento explosivo en contactos (+290.2%) y conversaciones (+160%), impulsado principalmente por campañas pagadas (149 de 184 contactos nuevos son pagados). Sin embargo, el índice de respuesta es preocupante:
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_05.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_05.webp)
 
 **Alerta: Tiempo de respuesta**
 
@@ -137,9 +137,9 @@ Las reseñas son el mejor activo de contenido de Mayu. Frases como "me explicar
 
 Los datos de Meta Business Suite revelan el siguiente perfil de la audiencia actual de Mayu:
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_06.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_06.webp)
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_07.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_07.webp)
 
 **Core audience:** Mujeres (62.7%) entre 25-44 años, ubicadas principalmente en Quito (32.5%), Cuenca (9.5%) y Guayaquil (8.1%). El 85.7% de la audiencia está en Ecuador, con pequeños segmentos en EE.UU. (2.5%) y España (1.6%).
 
@@ -169,7 +169,7 @@ Las reseñas de Google muestran un patrón: muchos usuarios llegan por prescri
 
 Los datos de BrandMentions revelan un panorama de baja visibilidad pero sentimiento mayoritariamente positivo. Las conversaciones trending giran en torno a "bienestar propósito", "inteligencia protocolo", "productos fitoterapia" y "natural consciente" — términos alineados con la propuesta de valor de Mayu.
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_08.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_08.webp)
 
 **Distribución de sentimiento:** Según BrandMentions, el 41% de las menciones son positivas, el 54% neutrales y solo el 5% negativas. No hay crisis reputacional, pero el volumen total de menciones es bajo, lo que indica que la marca aún no logra posicionarse en la conversación digital más amplia de su categoría.
 
@@ -181,7 +181,7 @@ Los datos de BrandMentions revelan un panorama de baja visibilidad pero sentimie
 
 El ecosistema digital de Mayu debe funcionar como un sistema integrado donde cada canal cumple un rol específico dentro del recorrido del usuario. El siguiente diagrama muestra cómo deberían interactuar los canales:
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_09.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_09.webp)
 
 | **Etapa** | **Canales** | **Objetivo** | **KPI principal** |
 | --- | --- | --- | --- |
@@ -216,7 +216,7 @@ El ecosistema digital de Mayu debe funcionar como un sistema integrado donde cad
 
 El plan se estructura en tres fases progresivas, diseñadas para generar impacto incremental sin sobrecargar los recursos del equipo:
 
-![image.png](/MAYU_STRATEGY-ROADMAP-ANALYSIS_10.webp)
+![image.png](MAYU_STRATEGY-ROADMAP-ANALYSIS_10.webp)
 
 ## Fase 1: Quick Wins (Meses 1-3)
 

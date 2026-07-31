@@ -55,4 +55,4 @@ El roadmap propuesto no inventa nada nuevo: activa lo que ya existe (asesoría g
 
 ***La oportunidad es clara: Mayu ya tiene el producto. Falta que su lenguaje esté a la altura.***
 
-![ESTRATEGIA_23.png](/MAYU_MAPA-DEL-ECOSISTEMA-DIGITAL_01.webp)
+![ESTRATEGIA_23.png](MAYU_MAPA-DEL-ECOSISTEMA-DIGITAL_01.webp)

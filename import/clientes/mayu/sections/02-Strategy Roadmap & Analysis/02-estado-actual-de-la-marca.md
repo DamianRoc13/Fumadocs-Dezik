@@ -17,7 +17,7 @@ La marca posee además:
 
 La huella digital de Mayu abarca: sitio web mayuecuador.com, perfil de Instagram @mayuecuador (10.1K seguidores), página de Facebook /mayuec, Google My Business activo, canal de mensajería vía Instagram y correo centromayu@gmail.com.
 
-![ESTRATEGIA_4.png](/MAYU_ESTADO-ACTUAL-DE-LA-MARCA_01.webp)
+![ESTRATEGIA_4.png](MAYU_ESTADO-ACTUAL-DE-LA-MARCA_01.webp)
 
 La marca también tiene activos digitales adicionales: tarjetas de fidelización digitales (existentes como activo real) y una sub-extensión educativa (MAYU Educación) con programas académicos.
 

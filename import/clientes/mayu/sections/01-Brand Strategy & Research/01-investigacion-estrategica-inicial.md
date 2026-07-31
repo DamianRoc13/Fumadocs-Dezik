@@ -4,7 +4,7 @@
 
 ---
 
-![ESTRATEGIA_29.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_01.webp)
+![ESTRATEGIA_29.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_01.webp)
 
 ---
 
@@ -14,13 +14,13 @@ En Ecuador existe un vacío entre la farmacia convencional —estandarizada, qu�
 
 La ambición de Mayu es ser reconocida como la farmacia donde te escuchan antes de formularte algo. Expandirse a Cuenca y canal online con posicionamiento científico-moderno. Consolidar una red de médicos prescriptores como canal B2B sostenible.
 
-![ESTRATEGIA_26.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_02.webp)
+![ESTRATEGIA_26.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_02.webp)
 
 ---
 
 ## ¿Qué es Mayu?
 
-![ESTRATEGIA_27.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_03.webp)
+![ESTRATEGIA_27.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_03.webp)
 
 Mayu es la intersección de cuatro tradiciones médicas —indú, europea, china y andina— expresada a través de más de 150 fórmulas con extractos estandarizados, certificados por lote, con Licencia del MAG, Latin American Quality Awards y ARCSA. El 80% de los médicos aliados también son pacientes.
 
@@ -38,7 +38,7 @@ Mayu es la intersección de cuatro tradiciones médicas —indú, europea, china
 - El 80% de médicos aliados son también pacientes
 - Rango de precios: USD 5 – USD 100 / Ticket promedio: $45
 
-![ESTRATEGIA_30.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_04.webp)
+![ESTRATEGIA_30.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_04.webp)
 
 ## Riesgos de percepción
 
@@ -86,7 +86,7 @@ Antes de vender, enseñamos. Capacitamos médicos, educamos pacientes.
 
 ---
 
-![ESTRATEGIA_31.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_05.webp)
+![ESTRATEGIA_31.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_05.webp)
 
 ---
 
@@ -94,15 +94,15 @@ Antes de vender, enseñamos. Capacitamos médicos, educamos pacientes.
 
 ---
 
-![ESTRATEGIA_35.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_06.webp)
+![ESTRATEGIA_35.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_06.webp)
 
 ---
 
-![ESTRATEGIA_36.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_07.webp)
+![ESTRATEGIA_36.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_07.webp)
 
 ---
 
-![ESTRATEGIA_34.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_08.webp)
+![ESTRATEGIA_34.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_08.webp)
 
 ---
 
@@ -190,13 +190,13 @@ La narrativa de Mayu es de restitución: la medicina nació como conversación p
 
 El mercado de medicina complementaria alcanzó USD 180 mil millones en 2025, con un crecimiento del 16.5% anual. El 63% de los consumidores prefiere terapias naturales y preventivas. La personalización se consolida como megatendencia global. Adaptógenos, hongos funcionales y magnesio quelado lideran el crecimiento. La dermatología integrativa se consolida en 2026. La fitoterapia clínica gana legitimidad académica con posgrados en Barcelona y programas en la Universidad Andina Simón Bolívar.
 
-![ESTRATEGIA_33.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_09.webp)
+![ESTRATEGIA_33.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_09.webp)
 
 ---
 
 ## Medicina Natural en Ecuador
 
-![ESTRATEGIA_28.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_10.webp)
+![ESTRATEGIA_28.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_10.webp)
 
 Los competidores actuales: Natural Vitality (20 tiendas, suplementos importados), Botica Alemana (150+ años, fórmulas químicas), Pharmavida y Naturpharma (farmacias naturales sin formulación personalizada). Ninguno hace lo que Mayu hace.
 
@@ -210,15 +210,15 @@ La tensión central del mercado: el consumidor quiere natural, pero no "agüita 
 
 Los tres territorios digitales sin reclamar: *"farmacia magistral natural Ecuador"*, *"fitoterapia con evidencia"*, *"asesoría de salud natural personalizada"*. Ningún competidor los ocupa.
 
-![ESTRATEGIA_32.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_11.webp)
+![ESTRATEGIA_32.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_11.webp)
 
 ---
 
-![ESTRATEGIA_38.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_12.webp)
+![ESTRATEGIA_38.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_12.webp)
 
 ---
 
-![ESTRATEGIA_37.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_13.webp)
+![ESTRATEGIA_37.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_13.webp)
 
 ---
 
@@ -238,7 +238,7 @@ Los tres territorios digitales sin reclamar: *"farmacia magistral natural Ecuado
 
 El público de Mayu es predominantemente femenino: 62.7% mujeres vs 37.3% hombres.
 
-![ESTRATEGIA_47.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_14.webp)
+![ESTRATEGIA_47.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_14.webp)
 
 ---
 
@@ -246,7 +246,7 @@ El público de Mayu es predominantemente femenino: 62.7% mujeres vs 37.3% hombre
 
 La mayor concentración está en el rango de 25 a 44 años. Audiencia adulta joven con interés en bienestar y salud.
 
-![ESTRATEGIA_48.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_15.webp)
+![ESTRATEGIA_48.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_15.webp)
 
 ---
 
@@ -254,7 +254,7 @@ La mayor concentración está en el rango de 25 a 44 años. Audiencia adulta jov
 
 Quito concentra el 32.5% de la audiencia, seguido de Cuenca (9.5%) y Guayaquil (8.1%). Cuenca representa una oportunidad de posicionamiento importante dado que es donde opera físicamente la marca y tiene baja penetración digital. Guayaquil muestra demanda orgánica sin presencia física.
 
-![ESTRATEGIA_49.png](/MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_16.webp)
+![ESTRATEGIA_49.png](MAYU_INVESTIGACION-ESTRATEGICA-INICIAL_16.webp)
 
 ---
 

@@ -8,7 +8,7 @@
 
 Instagram muestra alto crecimiento en alcance, clics e interacciones y genera interés real. Sin embargo, el crecimiento de seguidores es bajo: el contenido atrae pero no fideliza.
 
-![ESTRATEGIA_50.png](/MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_01.webp)
+![ESTRATEGIA_50.png](MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_01.webp)
 
 ---
 
@@ -18,7 +18,7 @@ Instagram muestra alto crecimiento en alcance, clics e interacciones y genera in
 
 La mayoría de métricas muestran caída. El 95% del rendimiento depende de pauta pagada, lo que hace al canal completamente dependiente de inversión y vulnerable.
 
-![ESTRATEGIA_51.png](/MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_02.webp)
+![ESTRATEGIA_51.png](MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_02.webp)
 
 ---
 
@@ -26,7 +26,7 @@ La mayoría de métricas muestran caída. El 95% del rendimiento depende de paut
 
 +360% en contactos nuevos · +290% en contactos totales · +160% en conversaciones iniciadas · Índice de respuesta: -14.4%.
 
-![ESTRATEGIA_52.png](/MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_03.webp)
+![ESTRATEGIA_52.png](MAYU_COMPORTAMIENTO-EN-REDES-SOCIALES_03.webp)
 
 El canal de mensajería crece aceleradamente en volumen, pero 1 de cada 3 mensajes no se responde y el tiempo de respuesta promedio es de 7 horas o más. Esto corta el proceso de decisión justo en el momento más crítico.
 

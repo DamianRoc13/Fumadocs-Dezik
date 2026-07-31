@@ -3,7 +3,7 @@
 **Espacio educativo e informativo dentro del local**
 Se desarrolló una propuesta de “Museo del CBD” como un espacio visual y educativo dentro del local de Mayu. La composición utiliza un sistema modular sobre panel perforado, integrando piezas gráficas, infografías y soportes acrílicos para presentar información de forma ordenada, clara y atractiva.
 
-![image.png](/MAYU_MUSEO-DEL-CBD_01.webp)
+![image.png](MAYU_MUSEO-DEL-CBD_01.webp)
 
 El sistema funciona como una pared informativa compuesta por piezas independientes, lo que permite organizar distintos temas sin saturar el espacio. La estética mantiene la línea visual de Mayu, combinando tonos naturales, gráficos limpios y una composición tipo exhibición.
 
