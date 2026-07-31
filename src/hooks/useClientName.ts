@@ -13,7 +13,8 @@ export function useClientName(): string {
     const subdomainToClient: Record<string, string> = {
       'partner': 'partner-gym',
       'aurora': 'aurora',
-      'sushicat': 'sushicat'
+      'sushicat': 'sushicat',
+      'mayufarmacia': 'mayu'
     }
 
     // Detectar subdominio consistente con middleware
