@@ -28,7 +28,8 @@ export function proxy(request: NextRequest) {
     const subdomainToClient: Record<string, string> = {
       'partner': 'partner-gym',
       'aurora': 'aurora',
-      'sushicat': 'sushicat'
+      'sushicat': 'sushicat',
+      'mayufarmacia': 'mayu'
     }
 
     clientName = subdomainToClient[subdomain] || subdomain
