@@ -1,0 +1,125 @@
+# Auditoría y evaluación de cada canal
+
+![ESTRATEGIA_5.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_01.webp)
+
+![ESTRATEGIA_6.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_02.webp)
+
+Cada canal se analiza bajo tres dimensiones: uso actual (qué hace hoy), efectividad (cómo rinde contra sus propios datos) y gaps/oportunidades (qué falta por activar).
+
+## 2.1 Sitio Web — mayuecuador.com
+
+### Uso actual
+
+Vitrina de productos y farmacia. 790 usuarios activos en el período analizado Q1 2026. Tiempo de interacción promedio: 58 segundos. 0.71 eventos por sesión. Las 5 páginas más visitadas: Home (29.3%), Productos (25%), Farmacia Fitoterapéutica (11.1%), Servicios (7.1%), Contacto (2.9%).
+
+### Efectividad
+
+Tráfico moderado pero no convierte. El 53.6% del tráfico viene de búsqueda orgánica — señal positiva de demanda real. El 33.2% es tráfico directo (marca reconocida). Paid media aporta menos de 100 sesiones.
+
+### Gaps y oportunidades
+
+- El título SEO “CBD Ecuador Cannabis medicinal” contradice el reposicionamiento estratégico. **Cambio urgente.**
+- No existe un embudo claro: el usuario llega a productos pero no hay CTA visible hacia la consulta o el WhatsApp.
+- Ausencia de contenido educativo que explique qué es una farmacia magistral o por qué la personalización importa.
+- Las páginas de CBD (gummies, choco medical) acumulan tráfico que refuerza la percepción que se quiere superar.
+- No hay integración visible de las tarjetas de fidelización en el flujo web (ej: landing de activación, beneficios).
+
+**Composición del tráfico web (Q1 2026):**
+
+| **Fuente** | **% del tráfico** | **Lectura** |
+| --- | --- | --- |
+| Orgánico | 53.6% | Demanda real — capturable con SEO |
+| Directo | 33.2% | Marca reconocida — retención existente |
+| Social | 7.5% | Bajo — Instagram no empuja a web |
+| Pago | 3.2% | Inversión mínima hasta ahora |
+| Otros | 2.5% | Referidos no identificados |
+
+## 2.2 Instagram — @mayuecuador
+
+### Uso actual
+
+Canal de comunidad B2C. 10.1K seguidores totales. Publicación de contenido orgánico + anuncios. Mix de Historias y Posts. El contenido más visto incluye temas de regalo/salud de mujer, webinars y contenido educativo.
+
+### Efectividad
+
+Canal con mejor rendimiento relativo. Visualizaciones +37.3% (105.4K), alcance +117.9% (23K), interacciones +99.7% (1.3K), clics al enlace +690.9% (783). Sin embargo, seguidores netos +0.3% con 180 unfollows: **el contenido atrae pero no genera fidelización en la plataforma.**
+
+### Gaps y oportunidades
+
+- Historias destacas no comunicas: no se encuentra información importante para que el usuario entienda lo que es Mayu.
+- Tiempo de respuesta en mensajes: 7 h 30 min y 33.5% sin respuesta — rompe el momento de intención de compra.
+- No se aprovechan las tarjetas de fidelización como driver de contenido (ej: promover activación de tarjeta en stories).
+- Alta dependencia de anuncios para generar contactos: 149 de 184 contactos nuevos son pagados.
+
+## 2.3 Facebook — /mayuec
+
+### Uso actual
+
+Canal de distribución de contenido y paid media. Período analizado: 314.7K visualizaciones totales (↓36.1%), 86.6K espectadores, 2.1K interacciones (↓17.5%), 6.5K clics en enlace (↑13.9%).
+
+### Efectividad
+
+Dependencia crítica de pauta: el 94.5% de visualizaciones son pagadas (297.5K de 314.7K). El alcance orgánico es casi inexistente (5.5%). Los 209 seguidores netos nuevos representan una caída del 35.1%. El único indicador positivo: clics en enlace (+13.9%), que confirma que los anuncios sí generan tráfico.
+
+### Gaps y oportunidades
+
+- El modelo actual no es sostenible: si se detiene la pauta, Facebook desaparece como canal.
+- Oportunidad de usar Facebook para retargeting y fidelización (audiencias similares a clientes actuales).
+- Posible canal para comunicación con segmento B2B (médicos, terapeutas) vía grupos y contenido profesional.
+
+## 2.4 Mensajería — Instagram DM + Email + WhatsApp
+
+![image.png](/MAYU_AUDITORIA-Y-EVALUACION-DE-CADA-CANAL_03.webp)
+
+### Uso actual
+
+Canal de conversión y atención. 199 contactos totales en período, 234 conversaciones iniciadas. 152 contactos pagados vs. 47 orgánicos. El correo centromayu@gmail.com es la única dirección documentada (a simple vista)  — no se tiene evidencia de WhatsApp Business estructurado.
+
+### Efectividad
+
+Bajo rendimiento operativo: índice de respuesta 66.5% (↓14.4%), tiempo promedio de respuesta 7 h 30 min (↑24.4%). En una categoría donde la confianza es el factor de compra, este gap destruye conversiones.
+
+### Gaps y oportunidades
+
+- Implementar protocolo de respuesta (automatización en meta) <2 h y cobertura >95% de mensajes es la acción con mayor ROI inmediato.
+- El correo centromayu@gmail.com no es una solución profesional para CRM o email marketing. Se requiere incorporar en la pantalla principal wpp.
+
+## 2.5 SEO y posicionamiento orgánico
+
+### Uso actual
+
+Google orgánico es el mayor canal de adquisición: 430 de 805 sesiones totales (53.6%), con tiempo de interacción de 1 min 10s.
+
+Las queries principales son navegacionales: “mayu ecuador” (191 clics, +9%), “mayu” (152 clics, ↓20%). Las queries de CBD están en descenso generalizado. “Farmacia magistral” solo generó 12 clics.
+
+### Efectividad
+
+El SEO funciona para usuarios que ya conocen la marca. No captura demanda informacional (usuarios que buscan soluciones a problemas de salud). El potencial real es enorme y no explotado: “magnesio beneficios”, “aceites esenciales terapéuticos”, “alternativas naturales al ibuprofeno”, “fitoterapia Ecuador”.
+
+### Gaps y oportunidades
+
+- Ausencia total de estrategia de contenido informacional (blog, artículos SEO por problema de salud).
+- El título del sitio bloquea activamente el reposicionamiento y puede generar tráfico incorrecto.
+- Oportunidad de triplicar el tráfico orgánico en 12 meses con estrategia de contenido enfocada en intención de búsqueda.
+
+## 2.6 Google My Business
+
+### Uso actual
+
+Canal de validación social y descubrimiento local. 5.0/5.0 con 118 reseñas — el asset digital más sólido de Mayu. Las reseñas mencionan consistentemente: atención personalizada, conocimiento del equipo, efectividad de fórmulas, instalaciones limpias.
+
+### Efectividad
+
+Alto. Es el primer punto de validación para un usuario nuevo que encuentra Mayu. La consistencia de 5.0 estrellas en 118 reseñas es una ventaja competitiva real y difícil de replicar.
+
+### Gaps y oportunidades
+
+- Las reseñas no están siendo sistematizadas ni recicladas como contenido en redes sociales o web.
+
+## 2.7 Email Marketing
+
+**GAP · INFORMACIÓN INSUFICIENTE**
+
+No existe evidencia de estrategia de email marketing activa. El único correo documentado es centromayu@gmail.com. Se desconoce si existe base de datos de clientes estructurada. Esta es una brecha crítica para la fidelización y lifecycle marketing.
+
+---

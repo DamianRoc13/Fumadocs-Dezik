@@ -1,0 +1,29 @@
+# Aplicación gráfica en pared
+
+#### **Sistema de vinilos murales para espacios Mayu**
+
+Se desarrolló una propuesta gráfica mural que transforma las paredes de Mayu en un recurso de comunicación visual. La composición integra naturaleza, ciencia, formulación magistral y bienestar, reforzando el posicionamiento de la marca como una farmacia magistral fitoterapéutica con respaldo profesional y enfoque natural.
+
+#### **Vinilo base**
+
+Propuesta principal de composición mural, pensada como una pieza completa de alto impacto visual. Reúne los principales elementos del universo Mayu: farmacia magistral, fórmulas personalizadas, extractos naturales, nanocoloides, protocolos de salud y activos terapéuticos.
+
+![image.png](/MAYU_APLICACION-GRAFICA-EN-PARED_01.webp)
+
+#### **Vinilo Cuenca**
+
+Adaptación del sistema gráfico para el espacio de Cuenca, con una composición más limpia y horizontal. Se prioriza la lectura, el equilibrio visual y la presencia de los elementos principales de marca.
+
+**Medidas:** **5,6 m de ancho x 2,4 m de alto**
+
+![image.png](/MAYU_APLICACION-GRAFICA-EN-PARED_02.webp)
+
+#### **Vinilo Quito**
+
+Versión adaptada para el espacio de Quito, con una distribución más compacta y dinámica. La composición mantiene los mensajes principales de la marca, integrando fotografía, recursos botánicos, elementos científicos y claims institucionales.
+
+**Medidas:** 8,0 m  **de ancho x** 2,37 m **de alto**
+
+![image.png](/MAYU_APLICACION-GRAFICA-EN-PARED_03.webp)
+
+Este sistema de vinilos murales permite que cada espacio físico de Mayu comunique su esencia de marca, integrando ciencia, naturaleza y formulación personalizada en una experiencia visual coherente y memorable.

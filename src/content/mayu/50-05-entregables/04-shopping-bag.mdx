@@ -1,0 +1,8 @@
+# Shopping Bag
+
+**Bolsa institucional para entrega de productos**
+Se diseñó una shopping bag institucional para Mayu, pensada como parte de la experiencia de compra y entrega de productos. La pieza mantiene una estética limpia, moderna y coherente con la identidad visual de la marca, utilizando el color principal, el logotipo y una composición minimalista.
+
+![MAY_BOLSA_MOCK.jpg](/MAYU_SHOPPING-BAG_01.webp)
+
+La bolsa está diseñada para acompañar la compra de productos en tienda, funcionando como un elemento práctico y al mismo tiempo como una pieza de comunicación visual. Su diseño sobrio permite que la marca sea protagonista sin sobrecargar el empaque.

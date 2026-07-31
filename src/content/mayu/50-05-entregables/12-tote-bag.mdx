@@ -1,0 +1,8 @@
+# Tote Bag
+
+**Bolso reutilizable institucional**
+Se diseñó una tote bag institucional para Mayu, pensada como una pieza funcional, reutilizable y alineada con la identidad natural de la marca. Su diseño minimalista permite que el logotipo sea protagonista, manteniendo una estética limpia, moderna y fácilmente reconocible.
+
+La tote bag utiliza el color principal de Mayu y una aplicación gráfica simple del logotipo, logrando una pieza sobria, práctica y coherente con el sistema visual de la marca.
+
+![MAY_TOTE.jpg](/MAYU_TOTE-BAG_01.webp)

@@ -1,0 +1,25 @@
+# Estrategia de Comunicación y Ecosistema Digital 2026
+
+Mayu es una marca con activos de clase premium en lo físico (5.0★ con 118 reseñas en Google, 150+ fórmulas magistrales, red de médicos con 80% de fidelidad, registro ARCSA y certificados de análisis por lote) y una huella digital presente pero descoordinada. El problema no es de producto ni de reputación: es de narrativa, velocidad operativa y arquitectura digital.
+
+![ESTRATEGIA_2.png](/MAYU_ESTRATEGIA-DE-COMUNICACION-Y-ECOSISTEMA-DIGIT_01.webp)
+
+Este documento integra dos trabajos: la auditoría de canales y el plan estratégico digital 2026, con la encuesta primaria de percepción 360° aplicada a 360 personas en Cuenca y Quito. La encuesta valida las hipótesis principales del plan y añade matices críticos, especialmente sobre la percepción CBD (43% de quienes conocen la marca la asocian todavía a CBD) y la baja familiaridad con el vocabulario técnico (82% no conoce el término “farmacia magistral”).
+
+## Tres brechas críticas detectadas
+
+![ESTRATEGIA_3.png](/MAYU_ESTRATEGIA-DE-COMUNICACION-Y-ECOSISTEMA-DIGIT_02.webp)
+
+## Tres oportunidades inmediatas
+
+- **Asesoría gratuita como hero:** el 81% de no conocedores califica este diferenciador con 4 o 5 / 5. Es el atributo más poderoso de Mayu y actualmente no aparece con prominencia en ningún canal digital.
+- **Reputación social como prueba:** 118 reseñas con 5.0★ es un activo difícil de replicar en la categoría. Debe sistematizarse la captación y reciclarse como contenido.
+- **Demanda latente alta:** 91% de no conocedores respondería “Sí” o “Tal vez” a probar una farmacia magistral natural. El problema no es rechazo sino desconocimiento.
+
+**INSIGHT CENTRAL**
+
+![ESTRATEGIA_9.png](/MAYU_ESTRATEGIA-DE-COMUNICACION-Y-ECOSISTEMA-DIGIT_03.webp)
+
+Mayu ya tiene la respuesta al problema de confianza (recomendación médica + certificados ARCSA). El desafío no es construir credibilidad desde cero, sino hacerla visible en el lenguaje que el público entiende — por problema de salud, no por categoría técnica.
+
+---

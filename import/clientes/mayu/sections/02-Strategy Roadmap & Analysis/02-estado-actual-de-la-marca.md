@@ -1,0 +1,48 @@
+# Estado actual de la marca
+
+## 1.1 Presencia física
+
+Mayu opera como Farmacia Magistral Fitoterapéutica con local físico en Quito (ubicación principal) y Cuenca. La experiencia presencial es el activo más sólido de la marca: asesoría clínica gratuita previa a cualquier formulación, espacio descrito como acogedor y limpio en reseñas, y personal con alto conocimiento técnico.
+
+La marca posee además:
+
+- 150+ fórmulas magistrales en catálogo.
+- Importación y producción local de materia prima.
+- Conservantes naturales (terpenos).
+- Certificados de análisis por lote y registro ARCSA.
+- Premios internacionales.
+- Red de médicos aliados donde el 80% son también pacientes activos.
+
+## 1.2 Presencia digital
+
+La huella digital de Mayu abarca: sitio web mayuecuador.com, perfil de Instagram @mayuecuador (10.1K seguidores), página de Facebook /mayuec, Google My Business activo, canal de mensajería vía Instagram y correo centromayu@gmail.com.
+
+![ESTRATEGIA_4.png](/MAYU_ESTADO-ACTUAL-DE-LA-MARCA_01.webp)
+
+La marca también tiene activos digitales adicionales: tarjetas de fidelización digitales (existentes como activo real) y una sub-extensión educativa (MAYU Educación) con programas académicos.
+
+## 1.3 Fortalezas
+
+- Propuesta de valor única en Ecuador: farmacia magistral fitoterapéutica con asesoría gratuita.
+- Reputación online impecable: 5.0 estrellas / 118 reseñas en Google — el mejor activo de prueba social.
+- Red de médicos prescriptores con alta fidelidad (80% son pacientes).
+- Catálogo de 150+ fórmulas con respaldo técnico real: certificados de lote, ARCSA, extractos estandarizados.
+- Crecimiento orgánico real en Instagram: +117.9% de alcance, +690.9% de clics al enlace en Q1 2026.
+- Tarjetas de fidelización digitales como activo de retención con potencial sin explotar.
+- Demanda orgánica probada: 1,500+ sesiones/mes desde búsqueda orgánica sin inversión SEO seria.
+
+## 1.4 Debilidades
+
+- Confusión de identidad: título del sitio web dice “CBD Ecuador Cannabis medicinal” — misalignment crítico con el reposicionamiento.
+- Brecha de percepción: el público asocia Mayu principalmente con CBD, no con farmacia magistral integral.
+- Baja velocidad de respuesta en mensajería: 66.5% de índice de respuesta y 7 h 30 min de tiempo promedio — fractura el ciclo de conversión.
+- Facebook con dependencia casi total de pauta: 94.5% de visualizaciones son pagas.
+- Sitio web sin embudo de conversión: 2.9% de visitas llegan a la página de Contacto.
+- Instagram crece en alcance pero no en seguidores netos: +0.3% de crecimiento vs. 180 unfollows.
+
+## 1.5 Inconsistencias detectadas
+
+- El sitio prioriza terminología técnica (farmacia magistral, fitoterapia) que el usuario promedio no busca ni entiende sin contexto.
+- La asesoría gratuita — el diferenciador más poderoso — no aparece en posición prominente en ningún canal.
+- La arquitectura de marca tiene submarcas (EDCANAMED, Clínica del Ayuno, MAYU Educación) sin separación visual clara en los canales digitales actuales.
+- Las tarjetas de fidelización digitales no están integradas en el flujo comunicacional de ningún canal digital.
