@@ -513,11 +513,11 @@ Los benchmarks de email en salud y bienestar son diferentes a los de e-commerce 
 
 | **KPI** | **Benchmark industria salud** | **Meta Mayu mes 3** | **Señal de alerta** |
 | --- | --- | --- | --- |
-| **Tasa de apertura** | ~35-40% | >35% | <20% — revisar líneas de asunto y hora de envío |
-| **Tasa de clic (CTR)** | ~3-5% | >3% | <1.5% — revisar relevancia del contenido y CTAs |
-| **Tasa de baja (unsubscribe)** | <0.5% | <0.3% | >1% — el contenido no es relevante o la frecuencia es excesiva |
-| **Tasa de rebote duro** | <1% | <0.5% | >2% — limpiar la lista de emails inválidos |
-| **Tasa de spam / queja** | <0.08% | <0.05% | >0.1% — riesgo de bloqueo del dominio de envío |
+| **Tasa de apertura** | ~35-40% | >35% | &lt;20% — revisar líneas de asunto y hora de envío |
+| **Tasa de clic (CTR)** | ~3-5% | >3% | &lt;1.5% — revisar relevancia del contenido y CTAs |
+| **Tasa de baja (unsubscribe)** | &lt;0.5% | &lt;0.3% | >1% — el contenido no es relevante o la frecuencia es excesiva |
+| **Tasa de rebote duro** | &lt;1% | &lt;0.5% | >2% — limpiar la lista de emails inválidos |
+| **Tasa de spam / queja** | &lt;0.08% | &lt;0.05% | >0.1% — riesgo de bloqueo del dominio de envío |
 | **Conversiones a consulta (clic CTA)** | Sin dato base | Establecer semana 1 | Comparar mensualmente para ver tendencia |
 
 # 07 · Checklist de activación

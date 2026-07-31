@@ -232,7 +232,7 @@ Tres indicadores son suficientes para saber si el programa funciona. Revisión m
 | **Médicos que derivan activamente (≥1 derivación en 60 días)** | Dato a levantar | >60% de activos | Base de derivaciones con código |
 | **Pacientes derivados por mes** | Dato a levantar | 15-20/mes | Registros de código en consulta |
 | **Tasa de retorno de pacientes derivados** | Dato a levantar | >50% segunda visita | Base de clientes |
-| **Médicos inactivos (sin derivación en 60 días)** | Dato a levantar | <20% del total | Revisión mensual de base |
+| **Médicos inactivos (sin derivación en 60 días)** | Dato a levantar | &lt;20% del total | Revisión mensual de base |
 | **NPS interno del médico (satisfacción con el programa)** | Sin dato base | Establecer en mes 1 | Encuesta de 1 pregunta por WhatsApp trimestral |
 
 Un médico inactivo (sin derivaciones en 60 días) no es un médico perdido — es un médico que necesita un motivo para volver a derivar. La acción correcta es contacto personalizado: ¿ha tenido casos candidatos? ¿necesita material adicional? ¿tiene dudas clínicas sin resolver?

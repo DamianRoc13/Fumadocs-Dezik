@@ -81,7 +81,7 @@ Bajo rendimiento operativo: índice de respuesta 66.5% (↓14.4%), tiempo promed
 
 ### Gaps y oportunidades
 
-- Implementar protocolo de respuesta (automatización en meta) <2 h y cobertura >95% de mensajes es la acción con mayor ROI inmediato.
+- Implementar protocolo de respuesta (automatización en meta) &lt;2 h y cobertura >95% de mensajes es la acción con mayor ROI inmediato.
 - El correo centromayu@gmail.com no es una solución profesional para CRM o email marketing. Se requiere incorporar en la pantalla principal wpp.
 
 ## 2.5 SEO y posicionamiento orgánico

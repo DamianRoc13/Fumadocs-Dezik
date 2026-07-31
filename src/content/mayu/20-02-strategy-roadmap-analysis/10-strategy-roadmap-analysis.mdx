@@ -197,7 +197,7 @@ El ecosistema digital de Mayu debe funcionar como un sistema integrado donde cad
 
 | **Canal** | **Prioridad** | **Acción clave** | **Por qué** |
 | --- | --- | --- | --- |
-| **Mensajería (WA/IG)** | **URGENTE** | Implementar protocolo de respuesta <2h | Cada mensaje sin responder es una venta perdida |
+| **Mensajería (WA/IG)** | **URGENTE** | Implementar protocolo de respuesta &lt;2h | Cada mensaje sin responder es una venta perdida |
 | **Sitio Web** | **ALTA** | Rediseñar home y crear embudo de conversión | El tráfico llega pero no convierte |
 | **Instagram** | **ALTA** | Unificar mensaje: farmacia magistral integral | Canal con mejor rendimiento orgánico |
 | **SEO/Blog** | **ALTA** | Crear contenido por intención de búsqueda | Capturar demanda informacional |
@@ -225,7 +225,7 @@ El plan se estructura en tres fases progresivas, diseñadas para generar impact
 | Unificar mensaje de marca en todos los canales | Eliminar confusión sobre qué es Mayu | Reducción de percepción "solo CBD" |
 | Actualizar bio, highlights y CTA en Instagram | Clarificar propuesta en primer punto de contacto | Mejor conversión de visitantes a seguidores |
 | Rediseñar home del sitio web | Comunicar diferencial antes que productos | Aumento de tiempo en sitio y páginas vistas |
-| Protocolo de respuesta de mensajes (<2h) | Recuperar contactos perdidos | ́Indice de respuesta >90% en 60 días |
+| Protocolo de respuesta de mensajes (&lt;2h) | Recuperar contactos perdidos | ́Indice de respuesta >90% en 60 días |
 | Sistematizar solicitud de reseñas en GMB | Acelerar prueba social | +30 reseñas en 3 meses |
 
 ## Fase 2: Optimización (Meses 4-7)
@@ -254,6 +254,6 @@ El desafío no es de producto ni de servicio. Es de comunicación, velocidad d
 
 **Las 3 decisiones que más impacto tendrán en los próximos 90 días**
 
-1. Unificar el mensaje de marca: "farmacia magistral integral con respaldo científico" en todos los canales, empezando por la web y las bios de redes.  2. Resolver la crisis de respuesta: implementar un protocolo que garantice respuesta en <2 horas y cobertura del 95% de mensajes.  3. Redirigir la home del sitio web: que el primer scroll comunique el diferencial de Mayu (escucha + personalización + ciencia), no una vidriera de productos CBD.
+1. Unificar el mensaje de marca: "farmacia magistral integral con respaldo científico" en todos los canales, empezando por la web y las bios de redes.  2. Resolver la crisis de respuesta: implementar un protocolo que garantice respuesta en &lt;2 horas y cobertura del 95% de mensajes.  3. Redirigir la home del sitio web: que el primer scroll comunique el diferencial de Mayu (escucha + personalización + ciencia), no una vidriera de productos CBD.
 
 ---

@@ -35,7 +35,7 @@ Principio guía: no activar el siguiente nivel de prioridad hasta que el anterio
 
 ---
 
-**02**  Meta operativa: índice de respuesta >95% y tiempo promedio <2h en 60 días
+**02**  Meta operativa: índice de respuesta >95% y tiempo promedio &lt;2h en 60 días
 
 ---
 
@@ -191,7 +191,7 @@ Principio guía: no activar el siguiente nivel de prioridad hasta que el anterio
 
 ---
 
-**01**  Programa de médicos en 3 capas: onboarding clínico (30-45 min) + soporte técnico continuo (WhatsApp <4h) + comunidad y educación (webinar semestral)
+**01**  Programa de médicos en 3 capas: onboarding clínico (30-45 min) + soporte técnico continuo (WhatsApp &lt;4h) + comunidad y educación (webinar semestral)
 
 ---
 

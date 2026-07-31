@@ -27,7 +27,7 @@ Tres condiciones deben cumplirse antes de activar cualquiera de estos canales. N
 
 | **Condición** | **Cómo verificarla** |
 | --- | --- |
-| **WhatsApp con índice de respuesta >90% y tiempo <2h** | KPI del protocolo de mensajería activo y sostenido por 60 días |
+| **WhatsApp con índice de respuesta >90% y tiempo &lt;2h** | KPI del protocolo de mensajería activo y sostenido por 60 días |
 | **Instagram publicando con consistencia de 4+ posts/semana durante al menos 8 semanas** | Historial del feed — no promesas, hechos |
 | **Productor de video asignado — interno o externo con contrato de continuidad** | No 'alguien que puede grabar con el celular cuando hay tiempo'. Rol definido, presupuesto asignado, frecuencia comprometida. |
 

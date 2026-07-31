@@ -24,7 +24,7 @@ Cerrar brechas críticas que están destruyendo conversiones y reforzando la per
 ### KPIs de fase
 
 - Índice de respuesta DM: >95% (desde 66.5%).
-- Tiempo de respuesta: <2h (desde 7h 30min).
+- Tiempo de respuesta: &lt;2h (desde 7h 30min).
 - Nuevas reseñas GMB: +30 en 90 días.
 - Diagnóstico de tarjetas completado: sí/no.
 
@@ -56,7 +56,7 @@ Construir los activos digitales que capitalizan el tráfico existente y empiezan
 
 ### KPIs de fase
 
-- Tasa de conversión web: >3% (actual estimado <1%).
+- Tasa de conversión web: >3% (actual estimado &lt;1%).
 - Tráfico orgánico: +50% en 6 meses.
 - Tarjetas de fidelización activadas: dato base establecido + primer objetivo de activación.
 - Suscriptores de email: base inicial construida.
