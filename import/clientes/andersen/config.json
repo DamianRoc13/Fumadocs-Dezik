@@ -1,0 +1,9 @@
+{
+    "projectName": "Andersen",
+    "domain": "andersen.helloprisma.com",
+    "secondaryColors": {
+        "highlight": "#FFD700",
+        "accent": "#FFA500",
+        "hover": "#DAA520"
+    }
+}
